@@ -1,8 +1,8 @@
 {
-  "version": 2,
+  "version": 3,
   "texts": {
-    "dropSelected": "Im Roll · Klicken zum Entfernen",
-    "dropUnselected": "Klicken zum Roll hinzufügen"
+    "dropSelected": "✔ Roll aktiviert",
+    "dropUnselected": "✘ Roll deaktiviert"
   },
   "pages": {
     "selector": {
