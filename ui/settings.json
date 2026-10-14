@@ -1,0 +1,2914 @@
+{
+  "version": 1,
+  "texts": {
+    "modeAlways": "Roll: Immer",
+    "modeSelected": "Roll: Nur ausgewählte Drops",
+    "modeAction": "Klicken zum Wechseln",
+    "dropSelected": "Im Roll · Klicken zum Entfernen",
+    "dropUnselected": "Klicken zum Roll hinzufügen"
+  },
+  "pages": {
+    "selector": {
+      "title": "Slayer-Rolls",
+      "rows": 5,
+      "slots": [
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:painting/variant",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:enchantments",
+                "minecraft:stored_enchantments",
+                "minecraft:trim",
+                "minecraft:charged_projectiles",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Slayer-Rolls",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Wähle, wann die Roll-Animation erscheint.",
+                "color": "gray",
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                1037473529,
+                1339306257,
+                -1800426253,
+                -1914360681
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjY1MjUwNjMxMCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM4YzY4N2RkODg4N2M1MDlkNTU4NjVlYmI2MmFiNjA4N2VmNzQzZTk0MjVjZDVkYzZiNGM3YjkzYjc0N2ZmMiIKICAgIH0KICB9Cn0=",
+                  "signature": "enmXRpBElHQ2aBCDawMdi5hG0pm9oLwOerSYQHhSO/fDZwy0eZRJwJzo3QgnYcESf9EEGyxZ1sVpn3Apw1UAPh8h0j5rf0I6l1xXmlj5cyqTaPZWPETMCvOSgX75L0hUm87X3eROyyU9pQq1HY6JaMC/raNwwg/PQuxt28UmTYQczzCg4cStVfLfO1sAIzYZK5+gBY3fnKkW3N0t1gcJfJJXUKOKnfTTy31C3rtKqU8FKg4VqRH3JbYSdGjV1+uUtTv59s9NnJJIjgTvj+uyzaqgy189xh9c8apUUftwyUhapymG9XyMBVF8SclTicPSA+Bgqx7OpVGcgE0fW8a3H0hLO6ZbDhODmAIfPV+gxXb8rPR12i4JvzuK2AuInsLeIrpUpeujoO0VcZl4a/h3TQLaUgTjVQzkoLYEi+b7VXuaJBdSiHXjjfD2op+iGIzUaNmNHjIcNpBvTds2Uu1bZdygYFciANJEPtUHnXH8I6Vv/hnJ9mQ7py6UOSRlxN9ncOuTtwvSqudZnaTueHZ2Jbclu4worL0wCNIXQyOxIqlC4sMfYm7H56JCrLlpZCH1rFuNa88M051PVXZei4Z4X+eIUhB3xiW/gpwwZW32ax0W8Vlgdy928BUmczRksjxKJ2hHCO14QCJnH9kgdQtVQPxnobYnz+56ijNsByWdBMg="
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:rotten_flesh",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:painting/variant",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:enchantments",
+                "minecraft:stored_enchantments",
+                "minecraft:trim",
+                "minecraft:charged_projectiles",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Zombie Slayer",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Klicken zum Öffnen",
+                "color": "yellow",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:cobweb",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:painting/variant",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:enchantments",
+                "minecraft:stored_enchantments",
+                "minecraft:trim",
+                "minecraft:charged_projectiles",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Spider Slayer",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Noch nicht verfügbar",
+                "color": "dark_gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:mutton",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:painting/variant",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:enchantments",
+                "minecraft:stored_enchantments",
+                "minecraft:trim",
+                "minecraft:charged_projectiles",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Wolf Slayer",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Noch nicht verfügbar",
+                "color": "dark_gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:ender_pearl",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:painting/variant",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:enchantments",
+                "minecraft:stored_enchantments",
+                "minecraft:trim",
+                "minecraft:charged_projectiles",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Enderman Slayer",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Noch nicht verfügbar",
+                "color": "dark_gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:redstone",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:painting/variant",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:enchantments",
+                "minecraft:stored_enchantments",
+                "minecraft:trim",
+                "minecraft:charged_projectiles",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Vampire Slayer",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Noch nicht verfügbar",
+                "color": "dark_gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:gray_dye",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Blaze Slayer",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Noch nicht verfügbar",
+                "color": "dark_gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:arrow",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Zurück",
+              "color": "green",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Menü schließen",
+                "color": "gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:barrier",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Schließen",
+              "color": "red",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        }
+      ],
+      "actions": {
+        "mode": 4,
+        "openZombie": 19,
+        "back": 39,
+        "close": 40
+      }
+    },
+    "zombie": {
+      "title": "Zombie-Slayer-Rolls",
+      "rows": 6,
+      "slots": [
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:rotten_flesh",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:painting/variant",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:enchantments",
+                "minecraft:stored_enchantments",
+                "minecraft:trim",
+                "minecraft:charged_projectiles",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Zombie-Slayer-Rolls",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Wähle, wann die Roll-Animation erscheint.",
+                "color": "gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Matcha Dye",
+              "color": "dark_green",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier I amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier I",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "RNGesus Incarnate ",
+                    "color": "red",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "0.0004%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                385347203,
+                -1288358547,
+                -2100336952,
+                868517855
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MTE2MTIxOTgwMCwKICAicHJvZmlsZUlkIiA6ICI5MWYwNGZlOTBmMzY0M2I1OGYyMGUzMzc1Zjg2ZDM5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdG9ybVN0b3JteSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NjQwMmI3ZjcyOGZmMjk5ZGYxMjM4NzIxMjY0MTMxODYwZjIzOWNkODAxNWUzZjAyNjAwNTE5NzMwN2Q1M2VhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                  "signature": "QYKA+t7iS0ElAvO1xVN4NyARr6SQgQRq8V4OTRGB36teX5+z0scwWchUS75Pp6rWf33ZLA/ab7yR1HGxg3omy3qUUDftC1fHWB13qqURL0HxLHePhdB1gq639hGwFyRzxUEbrKOR0/k8O0e0YUYT6xbv/ZnnUxOgUeh2fFlmzzYNTD062AOxlpJdko1FyK8liW/GJ0CvFWtQrseDT5LqiK3OwXmEON3KJSTwmqCEWQkxRCplv2eIdngylpLW4YyuTbV1M5T9qBUenu67ooWZvhw/luJoZ5mzc7bIPQ7Sz4TNu/00mUyuyjw0UYJZp9qtxw4P95STUYzY1urqazGvNh42w2CtB91T+uYvRavNSCLRMRbKD3cqibsmEylhDa5XWbG1Q6Qe0zHzNv6hTeUNuCtxrNMYNu/V1VGeegE/+b9QIMQRcepnRRVUxkWyXB/9vvThUcogeMv5U4c5t87CN/8wxGwQfD5s6YkJHZbfpWSIZ5vLskUmRZ/eOFTtqrO3d9EH3mjrMFXiwmNR1ENMH0aTVgZm2O7dTjd7/xMMq158bdk1Jn0JIigxhACuhLVGguZnAjFocvBfWl+Ja8InxFzXOW8H9yhNOCkxSXwKBlD3ohgslYPdQiGMu376moJ4mwRVAoDkYfUukUBWH5jMT5CCQ02EP67PphcVf8st+2o="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "id": "DYE_MATCHA",
+              "uuid": "8b76cd1b-c928-4652-9e52-9551c0084667",
+              "timestamp": 1792010286622
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+          }
+        },
+        {
+          "id": "minecraft:charcoal",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Foul Flesh",
+              "color": "blue",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier II amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier III amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1 to 2",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier IV amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "2 to 3",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier V amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "3 to 4",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier II",
+                    "color": "yellow",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Occasional ",
+                    "color": "blue",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "16.1616%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "FOUL_FLESH"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Revenant Shard",
+              "color": "blue",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier III amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier III",
+                    "color": "red",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Extraordinary ",
+                    "color": "dark_purple",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1.3608%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                -187174143,
+                -853002948,
+                -2144891807,
+                1918351457
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "eyJ0aW1lc3RhbXAiOjE1NjgwMzY3MjYwNjYsInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFmYzAxODQ0NzNmZTg4MmQyODk1Y2U3Y2JjODE5N2JkNDBmZjcwYmYxMGQzNzQ1ZGU5N2I2YzJhOWM1ZmM3OGYifX19",
+                  "signature": "OgWFy28iybbgqRZ68Jbg5wzUlOqYEEZTnKaT/4HDM3iqLeF4A7k5ZqWAsHisCc30cFC7e0CLkY2LgicKqlZY7bb5kTVJOkvAmDknjnboKecuOJTHzUqi6S+FBCwPDfgAIRQerPzoeFMqFYKQLZgIBZcPAvM2Kq2JA0YaNjrSYk5cc8f03+ixYT7Fqj0xguRVqiIj0fbzo0C5ImjZ4Q7BxW4uxrkWDz3Zn1UIJbXCoR1xJ4DfLFb2pnA/w486SuGt02P0K8fylmcjfqXgInw9OrULOkdiQpy43CxhYaQtJ87cqAGzVIv2ivPQesu4BmI1FVI37bIQEbVn2eawCs3+wkxVkV78t1Oe1/k7jwkS3bO6rojf9QMxaYDG7lFVnvZbJryS5dZczoujxL/NMVRHxXNabsnIj3W07qlQZHw2N/HMINxfNGEIIzcR8g6Yv2zsCm5GMIHSPw1qCg+ilAI0xiUz+yiWQ5wwREsu+6Zm0+TJr3sRhjWzz7X0OWnyCAMZLrGbnx0tb23Oi3Rl4e33IyywzJZ7eZlsijNyz7oZmxEV2qE2hNrUb5t1pSIvPqC31wI8fBXWtF5DT72QKQk0fTnerCMvvw+AQrLtcFWQYteWUaWS/4/wsIoHlmfNPK0GYy66JUaWEglRK0fjAjHExK3cb8ZnueOu+TaFd6+5C/g="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "attributes": {
+                "undead_essence": 1
+              },
+              "id": "ATTRIBUTE_SHARD"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "◆ Pestilence Rune I",
+              "color": "dark_green",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier II amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier II",
+                    "color": "yellow",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "6.2679%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                735471356,
+                353316994,
+                -1163539818,
+                118558207
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTUwNDEyOTIyMiwKICAicHJvZmlsZUlkIiA6ICIxNzM1MGE5OWQ3MzQ0NDBjYTY0YzJjMDU3YTNjMWM4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJHaWxkZWRoZXJvNTY5MSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hOGM0ODExMzk1ZmJmN2Y2MjBmMDVjYzMxNzVjZWYxNTE1YWFmNzc1YmEwNGEwMTA0NTAyN2YwNjkzYTkwMTQ3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                  "signature": "nwGaH27N5gWEI6JT+YsxqdSwxOhRoHRqrOTOrvuotyfOFaIgsvqoDcQs2ISYRmDMgzprJ5T8Qc0D0zVQzEm/RxYubZJYgl/zizkN4zq7xcPEApyx1aVEIydXo44W6aV0DsrRd1bTPFv2GEdP0BOxxfsoKF+FYxBv7R+t3byPoDYpzIkuIYxVg/nPlvwoCYx1HtIQ3GVUjzT5P7ouVS7+kujawZknvnr33KQQGZpuSap+TVIpaRF5QUIske6K8ez8UEaVsCqPP9tcmlGLtCS8b+QxEsUe6wWgq9Aksq7sIGg1u7DBrTL5p+SNmCnkRsKxoYXjez7ziuJ3QC9SA4D/4T4kWrA6SROrf3otWFAhnPTbMrL+Sgtd9xniy3fJKSgMu5Aj4mrLbsFX4A3pdyfY5VuHfASQjv9LXlmcfYWVn3yZcs9TQcXxGVWd3Csrw/wgxkWLgFAraD7tBt9LDYySYj3NWgG7XSaeXZ3/DVHk+ZyRp8m6pz4qB5NGGPzFWr+e03kGWgo2ROH3TTDp2++6XAbkJeQ8mwwrcaThldI7GLPgouzwSFohexCq7Oy1cYbPnUzdKRVv43NZbcHRyJYV6sGyUoRCmBGqcuKm4dUp3VpJ7QMX5JWAHLlK4X7085S2OXYu2RN8RMnG8xf8rUWSF6I1/5IzY0pNen6tSe1Og3Y="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "runes": {
+                "ZOMBIE_SLAYER": 1
+              },
+              "id": "RUNE"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:item_model": "hypixel_skyblock:item/slayer/zombie/catalysts/undead_catalyst",
+            "minecraft:custom_name": {
+              "text": "Undead Catalyst",
+              "color": "blue",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier II amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier II",
+                    "color": "yellow",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Extraordinary ",
+                    "color": "dark_purple",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "2.0202%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "UNDEAD_CATALYST"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        },
+        {
+          "id": "minecraft:enchanted_book",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Enchanted Book (Smite VI",
+                  "color": "white",
+                  "italic": false
+                },
+                {
+                  "text": ")",
+                  "color": "white",
+                  "italic": false
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier III amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier III",
+                    "color": "red",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Pray RNGesus ",
+                    "color": "light_purple",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "0.402%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "ENCHANTED_BOOK",
+              "enchantments": {
+                "smite": 6
+              },
+              "uuid": "bfe7ece9-b74d-456a-8c72-3845f4a64eee",
+              "timestamp": 1792010286625
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Beheaded Horror",
+              "color": "dark_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier III amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier III",
+                    "color": "red",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Pray RNGesus ",
+                    "color": "light_purple",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "0.1608%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                -99926414,
+                1166884047,
+                -1750195952,
+                1821897764
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMjIzNjA5NzQ0NCwKICAicHJvZmlsZUlkIiA6ICI5ZDIyZGRhOTVmZGI0MjFmOGZhNjAzNTI1YThkZmE4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYWZlRHJpZnQ0OCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kYmFkOTllZDNjODIwYjc5NzgxOTBhZDA4YTkzNGE2OGRmYTkwZDk5ODY4MjVkYTFjOTdmNmYyMWY0OWFkNjI2IgogICAgfQogIH0KfQ==",
+                  "signature": "hlSOANe88xZbLzLec6aJn3uuLEdGHwITDQF9b44/C3AH+7colD6+knzRjDkZbXUOrcwKMdq6R3lXXbRjN7do0m4zrSCz1frrf9yHCA1k7OvF5fZ9PSlByGPmsmnIlqOQ8O/GDU28bDmHLQBCw7A3Xv8cFN5+BiS5BkG/DQnGD5GOBbrSNIqemJtUBu/oN029+7DaSJASZ8AMAiUkZBAnetILgz7nDvFU4Vpg2JkMSFZOgfB3H/Xl7Bct1VWbDqNbMKpkyeIf9hl2T4HS7nWd+iX/DgTEXFDu62npy5CdKxcndc1y7xQWHI21nL1KU9pZst2aoWYE/pfvyL3E2+gE75l/HFwFPGs18jyBJlzfADxGDYBirhnO8LlwmjxznBY91zkXtPRKctU2nr6aBH8QwDF1GmprNLgCUzUqp5y+eJf6CCkpsGTucJYu9eRvdxedQVPJAtMNnzioAVEuuoCkL9e5vdTHlWWMkQttX/2f6qOyraw53zren/36znAws5DJhULUj3x0S1T88B5ZSTDtfD13ni+I2/7MaVYpGnWoea922MNjsBr1PjmB3sDlw6yKlao0b7TMRp4SXZH9xEli9H2hl1hvtjho5qRsP5rFr8zVqecmVMhNk+NUZibxx0GksxzVkDA1b/LrOr2bHQly9v/xykVvhuIj0dahnpCG2RA="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "id": "BEHEADED_HORROR",
+              "uuid": "dc80e65a-a7db-4e4c-bdf3-9c02d3b97458",
+              "timestamp": 1792010286625
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:epic"
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Paragon Shard",
+              "color": "gold",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier IV amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier IV",
+                    "color": "dark_red",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Pray RNGesus ",
+                    "color": "light_purple",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "0.25%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                1673637918,
+                -508348842,
+                -1506895037,
+                1128518994
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk3MzE1NCwKICAicHJvZmlsZUlkIiA6ICJmNjhhMmE2NTNkNjU0NTQ1ODE0ZDg0OWI5NmU0MDllOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdWdhdHR1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc1YjQ0OTQyMGYzYzE4OTFiZjY2M2MwNjIzZjEyMTBiYmJlMDY2ODY2Y2RjNGM4ZGExY2QxZjljYmZhMWVlZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                  "signature": "oEVKTrG/M/yJvg1OObXVmYcBGCzyb/Imkw/ylb9CI1KhmJvZiwWkKB/EihxDq1dHmIzJwnGWULBOuBEfI62n8hdAkUP05ra/ntsedkidatBz4uiHdlhvtAZ7JYoM5kqV7irAsl5UWhF9DsTyAIdMyuh/PCH4veRPeP0zWH1pjw+wPw8PMreBd07ipRKHG6wJn3vcD2OE3AtP/c5yfgt2IjdT7h+g021JA6jspQ8DsiDSyQQBDyqb3P5+vV5dZbnBBGtoAhBKCpUiMllCt1ek4jCJxslrs6IGuERt5yqrmjd4/U7eHWSx1z8co3HZcUCxcjpLgwVYXfUlybsKm2WFRxn3XzXF90yWBwwERJumDOuxXI3RBQQjhCyiGr3+y51qq9hXZ7ZnC57UAhPPbBzaFTnntMqoA2KjVJ+llX16gr7wQKwpSnDaxQlDvvWedjwEtFNOHP+/mzIbHzIpAIejoMPYfZwHK6QB/4ncVDJ2T1vWLw/rm6yyizpNW7jhDBgT1kgaJJEgBGK6Qo5sIysAsmxcSlbzELiG0E5TcrxfTJ3gAptcTVDSfLLhbeVGTjjx7cqZs41jXFPlZd+P4F7WweWZP4prAE3xhjZOvQiJccv7YMtiOphmy6ty3KgSPgF5MJkPQmYRuAzOlS9DLngQ0pEdFN6UpNIbhZ9QaL+lGy4="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "attributes": {
+                "slayer_discount": 1
+              },
+              "id": "ATTRIBUTE_SHARD"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:item_model": "hypixel_skyblock:item/slayer/zombie/catalysts/revenant_catalyst",
+            "minecraft:custom_name": {
+              "text": "Revenant Catalyst",
+              "color": "dark_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier II amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier II",
+                    "color": "yellow",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Extraordinary ",
+                    "color": "dark_purple",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1.0101%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "REVENANT_CATALYST"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:epic"
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "◆ Snake Rune I",
+              "color": "green",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier IV amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier IV",
+                    "color": "dark_red",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Pray RNGesus ",
+                    "color": "light_purple",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "0.1505%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                -638404775,
+                1782799,
+                -1403270276,
+                -1790928789
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwOTMwNjAwOTQ3NywKICAicHJvZmlsZUlkIiA6ICI1ZjQ5N2JmZDQwODU0NjRhOTNiMTRjN2Y3OTc5ZGYyNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUVEs5ODciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmM0YTY1YzY4OWIyZDM2NDA5MTAwYTYwYzJhYjhkM2QwYTY3Y2U5NGVlYTNjMWY3YWM5NzRmZDg5MzU2OGI1ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                  "signature": "JtNfg4ZxNdXt1ESo700WLh+7H+jcPMVEJt8Yaa+b1//jmrkEFzNangZtDDHYN3PyAuXLYW08MvIqQCWW/WEiLD2N8QnA1HnI67vQ677qwN0PCZzC+7kdjIFlR6RiR0sfmP/vH8oEBynQBtQsGDug+Ml/FpgoDypaheaNMpaYQ2ujLaOy6IEH3WP5KzSBEEQ8YGBD7HURu329UC+OxlAUAF6XmBNW6UWTHO0dJ8nFFvDkmPB+C7yMdZ0aDAFeSc9PNSvHj74Lorh0soydKqhLElcJdgzdhr8P8lsGhXIhS9leIE+Vgn1akJGXWbBoOGRxV9j54UfFF9psBiCLnvQhfMWnmLpeF1+R2QensFT/5Q0+Zqc8JFznd2N+Q4DkH4RMDhIttI7MG7zwJp9+AAXjg/kUjHAArOIVxQ+He5jYTrd9Yw2uf59ceZQesUPY31KAdHHYdbXYXOwl8LwXLdKrEL++b27DvmNY3a1d/Wtu5BJQ39oEPxyb4t7DoPh4KCUEbQgpcq17EdiLYy4gzILkqC8nLLdHlOshIsek2oLXWMjCQ9TUSbi/hnj7lbenfoLcF0+MTKwx/ZZnyj//ixUq7qBRn1oyHMBEorB3vigAqQOC1EuuHzTmtKSragIw0XbasdBmdx2qmkn+o6YhmnfT2XNfPZk3O2jxiZcXD9Q87HE="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "runes": {
+                "SNAKE": 1
+              },
+              "id": "RUNE"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Festering Maggot",
+              "color": "dark_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier IV amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier IV",
+                    "color": "dark_red",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Pray RNGesus ",
+                    "color": "light_purple",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "0.1361%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                458511654,
+                -1569574174,
+                -1516263852,
+                699836672
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTczODc2MTE3MDUxOSwKICAicHJvZmlsZUlkIiA6ICI4ZjllYTBhNWJhOGE0NTNkYTgzNTBmYjRmNzVmOTJiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDeWJlck1pbm55IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U4MjhhZjNmYTgwMTU0Y2NlZTEzNWM2NGNkNTc0MTJmZWRhODk1Y2QxZDIxZjI0MGQ4NzY3NzNiYTlkNmE1NmQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+                  "signature": "CpxJ9TqKZz4SiEO2GCC7oPRrPCfqdJbXIxkHjvNYiCjwr4n5ln3/5MPhgau127BE52hbLJJqvMRqPrO/NRjCJ/cXRS8/P4u8lHnWiWB9WQMY+j+9MgUHpoxwArB4HBs2XQeZ8QdLyc7+s33danYiF2myODXVq3MknWFND8jbMA77XNA5vpFydMi5dgBdVErtIcshkkQg2Ay01LVYCM4VDo4quUGpag+NmP27cdkFdbkulPz795yxtAGjXP/PVe5idG/wzykFwZZi7cVUyxNCGddoxnKb8aBR9+amCqB6ecZ26Yq/NrfUjrOoSajBTQEvV/W+6yJ2/iZ1KAX+8n6c5oB394ZLYHFKW/5F1MckAKvuHJowVm5ePYfqLKNpGw0kkLfGIOvqhVu0aLpJw0bfU7I1MOt9jpH9Cbi+RN2B/4CLOY9eiSZoIdCdrgMF9pIT9C68wROLVfUHcIaAlSt7F9a9gy6RVXh8+6WXKKa+cM/5re/qIi+sz2FdXx+eONpcMcyownDRL5iGLKCMlbPyxXTTH2MTJDUC80IrglOank+pSrZ5pO/KMfah7RQw+CIwIipCH/NZrEp/IO06B1VcygfDnKfD5qNpMR5d1e7xxcqHQcAbRqwB206+iGBaQ5wt43URF7c/sleV4WmhY4B6WFM7g0/ZrPkNVKS3ect+Ztk="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "id": "FESTERING_MAGGOT",
+              "uuid": "af685aeb-6076-4e5a-9cb5-b85ac65b3e6a",
+              "timestamp": 1792010286627
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:epic"
+          }
+        },
+        {
+          "id": "minecraft:cooked_porkchop",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:item_model": "hypixel_skyblock:item/slayer/zombie/revenant_viscera",
+            "minecraft:custom_name": {
+              "text": "Revenant Viscera",
+              "color": "blue",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier V amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1 to 2",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier V",
+                    "color": "dark_purple",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Occasional ",
+                    "color": "blue",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "13.6082%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "REVENANT_VISCERA"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        },
+        {
+          "id": "minecraft:diamond",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "Scythe Blade",
+              "color": "gold",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier IV amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier IV",
+                    "color": "dark_red",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Pray RNGesus ",
+                    "color": "light_purple",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "0.1021%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "SCYTHE_BLADE",
+              "uuid": "25700af1-45a7-4209-a569-64f2b7d88c28",
+              "timestamp": 1792010286627
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:custom_name": {
+              "text": "Severed Hand",
+              "color": "gold",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier V amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier V",
+                    "color": "dark_purple",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Pray RNGesus ",
+                    "color": "light_purple",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "0.0476%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                -1506728481,
+                -1243728911,
+                -1076562472,
+                717078363
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0NTU0MzYyOTE3MCwKICAicHJvZmlsZUlkIiA6ICIyMDZlMWZkYjI5Yzk0NGYxOTQ5OTg4NzAwNTQxMGQ2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoNHlsMzMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTExZWU2NWI1NmQ1MGNkMWVmODFhN2QzM2FlMjQyMTkyNzU5MmNjZDkyYWQ3YzJlYzRmYjFhYWMyOWJhNDIyZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                  "signature": "fYi43mwCNukgIBBLWvM6VDG92kgXj15MEBrTH/SNDH0eC8wb+T7zDeTfP0jfDntYR7eKX2fgPH6oEmz6eL0CT4HMdqn22vM/m6MRNc+AgBn9M9gc0JJPmmGvccCA2S5Umhw2AHq4ftRUr6vR3zSp14/dpR3+UtID0SQBh3PNYQW/Kq3IU96CaqfoMUts5p+U9ZY7MCPR1u9HcE7IdypWvWVYCgz8Zj6tfSq1+4bTYytGmAhf5tRabBqZxZR1MYtyB+GqifaAQNNwSEXV9wnetg3OKl1ZDjZb04mtiDDTVj3c2WHY+uAzQE4o20jpePJzJVWE1qEUM3ETsCtbIWAS2vqr2PC9jiclUWfM9XLCEMMmfEhsMSwQfYemR+odYrPwuknpdYtecoNyTiC//t1XxRojdgFOSoOoFKGRxg6gKnPnPIqDilvSoB0PQ/+kKQz+0ny0/SJ8uXuG5mKbEfCtT8LNDf/oKW5t0/iJMjUxsQzef70k32QlJjgPQedDYFQD0jA7yBeTNahEvSpTcOBB948CtDXX2/qCIdywcak0xTou+0fvTP+H3Bptiv7DdU5VDMIJUnkNNN0qOJ9klzqcToHZhhugqCalZ6ZtcRH+bUZUsMfy4QJ4nVjVcRPgBLQ4iRKchzi4/D1QzhLpYrX8t4EUwpdoPljzCjtSEoizdM8="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "id": "SEVERED_HAND",
+              "uuid": "cc582aab-8c39-4a2c-b0c6-4a8e7051b36c",
+              "timestamp": 1792010286627
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Shredded Sinew",
+              "color": "gold",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier V amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier V",
+                    "color": "dark_purple",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Pray RNGesus ",
+                    "color": "light_purple",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "0.0544%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                519837294,
+                -1315622287,
+                -1582218475,
+                519019381
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTYyMjEyNDkwMzA5MSwKICAicHJvZmlsZUlkIiA6ICJiNjM2OWQ0MzMwNTU0NGIzOWE5OTBhODYyNWY5MmEwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb2JpbmhvXyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iMTA4NTdlODcyNzExZTdlNjkyNWM5ZWYxMTE1MzUzYjQ3ZjU4ZWYwN2ViNWMyZDU2NWYxZjg2MDIzZTdhMjg0IgogICAgfQogIH0KfQ==",
+                  "signature": "wEN93PZTPJN0IyYRIwMih72Q1bSM3JrEX5GHMJTLeRjHhoZ3qKwainzSqmWLke6A0zgThVsksz1absDHRxq7djnti6Lalu1APSOxOn1Uk2ooIdSxhHCF+EvaVk8sGH6HHvoGIozR99lMYBWAlbvgSgyr0fao6ksZuSzrFfpKbT5i9c2huZNr/e4TF3PMnHwptfbbomGQnpXfvx+29id32+Tz1edfMIm3+ZV5DaCc42ijgiMiQGgO94GCaSwuHU3S5yy1tg2CDm13N9CS3o62EiDeeVNhZ/GH/1+8DzzgdYfT1o4d1Lzu4EsLp4EFLM6uc1mUAt47wkkZ+BJYd1EcBT47NhCvrkxffcT8Plfap0bZgcltlWi4+ZomHZB0YUU7Ly06xo1tZR7sSP5UMrJB7aLbhQ5nL/qUMf38/dRLpTap61YcPhw5zzoR3jHwocJgbaflHEVTdH8SomQAmTuk1sKdDmhO9z0gRvXeYFZyzvjHzDg9LGQCMTrj+k4tJuv3Kp3hsA/LpkCnbYi9qbEcdSlj7WNcKtl9rNGIDzLP49dJh5lYi5c0BrGmp2N2WIkOyS8Fz0DVe/6IMaYJ8F7cwIp8vZnbRQw1NzeS1F6H4uYS4i0YUkz3xwef3r0OdWLcNlEpGGR5wejkOX0iYzm8JzYj71OnYBhDlA+akaWoTmM="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "id": "SHARD_OF_THE_SHREDDED",
+              "uuid": "d80fca8f-8e43-457b-9f37-e095ed5876c4",
+              "timestamp": 1792010286628
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Warden Heart",
+              "color": "gold",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Tier V amount: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "1",
+                    "color": "green",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Minimum: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "Tier V",
+                    "color": "dark_purple",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "RNGesus Incarnate ",
+                    "color": "red",
+                    "italic": false
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray",
+                    "italic": false
+                  },
+                  {
+                    "text": "0.0136%",
+                    "color": "dark_gray",
+                    "strikethrough": true,
+                    "italic": false
+                  },
+                  " ",
+                  {
+                    "text": "0.0153%)",
+                    "color": "gray",
+                    "italic": false
+                  }
+                ],
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                -285624617,
+                -1584054902,
+                -1575612793,
+                -1517957757
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxMDQwMjM1OTkxMSwKICAicHJvZmlsZUlkIiA6ICJiYjdjY2E3MTA0MzQ0NDEyOGQzMDg5ZTEzYmRmYWI1OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXVyZW5jaW8wMSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xOWEzYjVmYWIwMWRmYWJmMWY4YTgxNDQ0MGE4Y2U4MGRlMTA5YjEzNWE1MWFlZjIyNWM5ZWU5OGZlNDQ3ZTAiCiAgICB9CiAgfQp9",
+                  "signature": "Jz9CVPIWiMrQ16ev8pFyJninIvFfAkU/MlE54+eRmzBIfo3GPIh9FWlM7Hzk7YqYcn0vNvYwFb8tVmkParfeEOtZQQkH/MxFakHIpVEZCXRIkTbCzSJn3JQpnsj+WHTJ7eJoLjD523/62qwnf2BHfzTkU99g0FyR7QuH6wEeDwy9zYEWX0bz9o8w89QaO2l2HwrqUr8WTh/Qpa1H2kDVOCMwQd/rn9WvxY5YHijtKioRV4TCX5SX2Hzigu3LVfWeNuX0tp4dnJUZDyHhl/5VD+ZWOfSXcPazzhxWiCdkS2BrGevqEK6MfAvOxoRgm9mgrCLb8v5pAmTqfuq4jmgLU5XAWEy6L3PMSaYltPmHuDCDQHe5K+8NqJrirSt/bKO5dKCB/x7kQyMRoJTunQKfZZEnp5Vbqv9DSidlupltJLgRIVeprN9M+SLNyYzJnBaUxSYyIsaJtXmXBbA+0C7SIPGpj8OItjwFs1qgg9zNgRH3gaKTMu3aDwM1arzZT/b8J+73U+LFJc0DdTMkyF2im92uyVpkRuOoFARAS7QL5DrxSda6MZnFjdDQllHfQuk2kfVBO0jBTtpkuzCHf5/Oi5/Ci9w0H3/qbzfAqBUqyRA0VJRKPHfcN37BywL12ux42u4By1fv74yCV2+l8+TaXjnuOa3/EJILNUsxt9xKLVE="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "id": "WARDEN_HEART",
+              "uuid": "89940af7-329c-409f-87b0-96721d9fd468",
+              "timestamp": 1792010286628
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+          }
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:arrow",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Zurück",
+              "color": "green",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Zur Slayer-Auswahl",
+                "color": "gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:barrier",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Schließen",
+              "color": "red",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "",
+              "color": "gray",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "",
+              "color": "gray",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        }
+      ],
+      "actions": {
+        "mode": 4,
+        "back": 48,
+        "close": 49
+      },
+      "dropSlots": {
+        "matcha_dye": 10,
+        "foul_flesh": 11,
+        "revenant_shard": 12,
+        "pestilence_rune": 13,
+        "undead_catalyst": 14,
+        "smite_vi": 15,
+        "beheaded_horror": 16,
+        "paragon_shard": 19,
+        "revenant_catalyst": 20,
+        "snake_rune": 21,
+        "festering_maggot": 22,
+        "revenant_viscera": 23,
+        "scythe_blade": 24,
+        "severed_hand": 25,
+        "shredded_sinew": 28,
+        "warden_heart": 29
+      }
+    }
+  }
+}
