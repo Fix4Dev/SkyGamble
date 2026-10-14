@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "_comment": "Aus dem gespeicherten Hypixel RNG-Meter-Inventar übernommen. Chancen und Slots entsprechen der Aufnahme; spätere Serveränderungen können abweichen.",
   "source": "https://github.com/kyotinho/skyblock-rng-optimizer/blob/main/index.html",
   "items": [
@@ -1494,91 +1494,12 @@
               "color": "gray",
               "italic": false
             },
-            " ",
             {
               "text": "0.0689%)",
               "color": "gray",
               "italic": false
             }
           ],
-          "italic": false
-        },
-        "",
-        {
-          "text": "",
-          "extra": [
-            {
-              "text": "Progress: ",
-              "color": "gray",
-              "italic": false
-            },
-            {
-              "text": "11.1",
-              "color": "light_purple",
-              "italic": false
-            },
-            {
-              "text": "%",
-              "color": "dark_purple",
-              "italic": false
-            }
-          ],
-          "italic": false
-        },
-        {
-          "text": "",
-          "extra": [
-            " ",
-            {
-              "text": "97,856",
-              "color": "light_purple",
-              "italic": false
-            },
-            {
-              "text": "/",
-              "color": "dark_purple",
-              "italic": false
-            },
-            {
-              "text": "885.6k",
-              "color": "light_purple",
-              "italic": false
-            }
-          ],
-          "italic": false
-        },
-        "",
-        {
-          "text": "Filling the meter increases the drop",
-          "color": "gray",
-          "italic": false
-        },
-        {
-          "text": "",
-          "extra": [
-            {
-              "text": "chance of this item. Reaching ",
-              "color": "gray",
-              "italic": false
-            },
-            {
-              "text": "100%",
-              "color": "green",
-              "italic": false
-            }
-          ],
-          "italic": false
-        },
-        {
-          "text": "will guarantee it to drop!",
-          "color": "gray",
-          "italic": false
-        },
-        "",
-        {
-          "text": "SELECTED",
-          "color": "green",
-          "bold": true,
           "italic": false
         }
       ]

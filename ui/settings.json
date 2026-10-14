@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "texts": {
     "dropSelected": "✔ Roll aktiviert",
     "dropUnselected": "✘ Roll deaktiviert"
@@ -4907,91 +4907,12 @@
                     "color": "gray",
                     "italic": false
                   },
-                  " ",
                   {
                     "text": "0.0159%)",
                     "color": "gray",
                     "italic": false
                   }
                 ],
-                "italic": false
-              },
-              "",
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Progress: ",
-                    "color": "gray",
-                    "italic": false
-                  },
-                  {
-                    "text": "6.3",
-                    "color": "light_purple",
-                    "italic": false
-                  },
-                  {
-                    "text": "%",
-                    "color": "dark_purple",
-                    "italic": false
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  " ",
-                  {
-                    "text": "223,339",
-                    "color": "light_purple",
-                    "italic": false
-                  },
-                  {
-                    "text": "/",
-                    "color": "dark_purple",
-                    "italic": false
-                  },
-                  {
-                    "text": "3.5M",
-                    "color": "light_purple",
-                    "italic": false
-                  }
-                ],
-                "italic": false
-              },
-              "",
-              {
-                "text": "Filling the meter increases the drop",
-                "color": "gray",
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "chance of this item. Reaching ",
-                    "color": "gray",
-                    "italic": false
-                  },
-                  {
-                    "text": "100%",
-                    "color": "green",
-                    "italic": false
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "will guarantee it to drop!",
-                "color": "gray",
-                "italic": false
-              },
-              "",
-              {
-                "text": "SELECTED",
-                "color": "green",
-                "bold": true,
                 "italic": false
               }
             ],
@@ -6329,91 +6250,12 @@
                     "color": "gray",
                     "italic": false
                   },
-                  " ",
                   {
                     "text": "0.0483%)",
                     "color": "gray",
                     "italic": false
                   }
                 ],
-                "italic": false
-              },
-              "",
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Progress: ",
-                    "color": "gray",
-                    "italic": false
-                  },
-                  {
-                    "text": "9.5",
-                    "color": "light_purple",
-                    "italic": false
-                  },
-                  {
-                    "text": "%",
-                    "color": "dark_purple",
-                    "italic": false
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  " ",
-                  {
-                    "text": "116,951",
-                    "color": "light_purple",
-                    "italic": false
-                  },
-                  {
-                    "text": "/",
-                    "color": "dark_purple",
-                    "italic": false
-                  },
-                  {
-                    "text": "1.2M",
-                    "color": "light_purple",
-                    "italic": false
-                  }
-                ],
-                "italic": false
-              },
-              "",
-              {
-                "text": "Filling the meter increases the drop",
-                "color": "gray",
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "chance of this item. Reaching ",
-                    "color": "gray",
-                    "italic": false
-                  },
-                  {
-                    "text": "100%",
-                    "color": "green",
-                    "italic": false
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "will guarantee it to drop!",
-                "color": "gray",
-                "italic": false
-              },
-              "",
-              {
-                "text": "SELECTED",
-                "color": "green",
-                "bold": true,
                 "italic": false
               }
             ],
@@ -8828,91 +8670,12 @@
                     "color": "gray",
                     "italic": false
                   },
-                  " ",
                   {
                     "text": "0.0689%)",
                     "color": "gray",
                     "italic": false
                   }
                 ],
-                "italic": false
-              },
-              "",
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Progress: ",
-                    "color": "gray",
-                    "italic": false
-                  },
-                  {
-                    "text": "11.1",
-                    "color": "light_purple",
-                    "italic": false
-                  },
-                  {
-                    "text": "%",
-                    "color": "dark_purple",
-                    "italic": false
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  " ",
-                  {
-                    "text": "97,856",
-                    "color": "light_purple",
-                    "italic": false
-                  },
-                  {
-                    "text": "/",
-                    "color": "dark_purple",
-                    "italic": false
-                  },
-                  {
-                    "text": "885.6k",
-                    "color": "light_purple",
-                    "italic": false
-                  }
-                ],
-                "italic": false
-              },
-              "",
-              {
-                "text": "Filling the meter increases the drop",
-                "color": "gray",
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "chance of this item. Reaching ",
-                    "color": "gray",
-                    "italic": false
-                  },
-                  {
-                    "text": "100%",
-                    "color": "green",
-                    "italic": false
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "will guarantee it to drop!",
-                "color": "gray",
-                "italic": false
-              },
-              "",
-              {
-                "text": "SELECTED",
-                "color": "green",
-                "bold": true,
                 "italic": false
               }
             ],
