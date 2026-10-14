@@ -1,9 +1,6 @@
 {
-  "version": 1,
+  "version": 2,
   "texts": {
-    "modeAlways": "Roll: Immer",
-    "modeSelected": "Roll: Nur ausgewählte Drops",
-    "modeAction": "Klicken zum Wechseln",
     "dropSelected": "Im Roll · Klicken zum Entfernen",
     "dropUnselected": "Klicken zum Roll hinzufügen"
   },
@@ -93,7 +90,12 @@
             },
             "minecraft:lore": [
               {
-                "text": "Wähle, wann die Roll-Animation erscheint.",
+                "text": "Ein Roll erscheint nur bei einem erkannten RNG-Drop.",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "Wähle unten die Drops für den Roll aus.",
                 "color": "gray",
                 "italic": false
               }
@@ -760,7 +762,6 @@
         }
       ],
       "actions": {
-        "mode": 4,
         "openZombie": 19,
         "back": 39,
         "close": 40
@@ -851,7 +852,12 @@
             },
             "minecraft:lore": [
               {
-                "text": "Wähle, wann die Roll-Animation erscheint.",
+                "text": "Ein Roll erscheint nur bei einem erkannten RNG-Drop.",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "Wähle unten die Drops für den Roll aus.",
                 "color": "gray",
                 "italic": false
               }
@@ -2680,13 +2686,6 @@
                     "italic": false
                   },
                   {
-                    "text": "0.0136%",
-                    "color": "dark_gray",
-                    "strikethrough": true,
-                    "italic": false
-                  },
-                  " ",
-                  {
                     "text": "0.0153%)",
                     "color": "gray",
                     "italic": false
@@ -2887,7 +2886,6 @@
         }
       ],
       "actions": {
-        "mode": 4,
         "back": 48,
         "close": 49
       },
