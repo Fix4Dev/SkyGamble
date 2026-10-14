@@ -1,0 +1,228 @@
+{
+  "version": 1,
+  "_comment": "Slayer roll pool. chancePercent is an approximate highest-tier baseline; the server-announced item is always the winner.",
+  "source": "https://github.com/kyotinho/skyblock-rng-optimizer/blob/main/index.html",
+  "items": [
+    {
+      "id": "twilight_arrow_poison",
+      "name": "Twilight Arrow Poison",
+      "icon": "minecraft:arrow",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 10,
+      "chancePercent": 12.70379,
+      "skyblockId": "TWILIGHT_ARROW_POISON",
+      "chanceApproximate": true
+    },
+    {
+      "id": "endersnake_rune",
+      "name": "◆ Endersnake Rune I",
+      "icon": "minecraft:player_head",
+      "color": "#FFAA55FF",
+      "aliases": [
+        "Endersnake Rune",
+        "Endersnake Rune I"
+      ],
+      "settingsSlot": 11,
+      "chancePercent": 7.317966,
+      "chanceApproximate": true
+    },
+    {
+      "id": "summoning_eye",
+      "name": "Summoning Eye",
+      "icon": "minecraft:ender_eye",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 12,
+      "chancePercent": 0.564613,
+      "skyblockId": "SUMMONING_EYE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "mana_steal_1_book",
+      "name": "Enchanted Book (Mana Steal I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF5555FF",
+      "aliases": [
+        "Mana Steal 1 Book",
+        "Mana Steal I"
+      ],
+      "settingsSlot": 13,
+      "chancePercent": 4.234597,
+      "chanceApproximate": true
+    },
+    {
+      "id": "transmission_tuner",
+      "name": "Transmission Tuner",
+      "icon": "minecraft:player_head",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 14,
+      "chancePercent": 2.117298,
+      "skyblockId": "TRANSMISSION_TUNER",
+      "chanceApproximate": true
+    },
+    {
+      "id": "null_atom",
+      "name": "Null Atom",
+      "icon": "minecraft:ender_eye",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 15,
+      "chancePercent": 4.940363,
+      "skyblockId": "NULL_ATOM",
+      "chanceApproximate": true
+    },
+    {
+      "id": "hazmat_enderman",
+      "name": "Hazmat Enderman",
+      "icon": "minecraft:player_head",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 16,
+      "chancePercent": 1.552685,
+      "skyblockId": "HAZMAT_ENDERMAN",
+      "chanceApproximate": true
+    },
+    {
+      "id": "pocket_espresso_machine",
+      "name": "Pocket Espresso Machine",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 19,
+      "chancePercent": 0.388171,
+      "skyblockId": "POCKET_ESPRESSO_MACHINE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "smarty_pants_1_book",
+      "name": "Enchanted Book (Smarty Pants I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF5555FF",
+      "aliases": [
+        "Smarty Pants 1 Book",
+        "Smarty Pants I"
+      ],
+      "settingsSlot": 20,
+      "chancePercent": 1.764415,
+      "chanceApproximate": true
+    },
+    {
+      "id": "end_rune",
+      "name": "◆ End Rune I",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [
+        "End Rune",
+        "End Rune I"
+      ],
+      "settingsSlot": 21,
+      "chancePercent": 0.914746,
+      "chanceApproximate": true
+    },
+    {
+      "id": "handy_blood_chalice",
+      "name": "Handy Blood Chalice",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 22,
+      "chancePercent": 0.176442,
+      "skyblockId": "HANDY_BLOOD_CHALICE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "sinful_dice",
+      "name": "Sinful Dice",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 23,
+      "chancePercent": 0.458748,
+      "skyblockId": "SINFUL_DICE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "exceedingly_rare_ender_artifact_upgrader",
+      "name": "Exceedingly Rare Ender Artifact Upgrader",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 24,
+      "chancePercent": 0.028231,
+      "skyblockId": "EXCEEDINGLY_RARE_ENDER_ARTIFACT_UPGRADER",
+      "chanceApproximate": true
+    },
+    {
+      "id": "void_conquerer_enderman_skin",
+      "name": "Void Conquerer Enderman Skin",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 25,
+      "chancePercent": 0.228686,
+      "skyblockId": "VOID_CONQUERER_ENDERMAN_SKIN",
+      "chanceApproximate": true
+    },
+    {
+      "id": "etherwarp_merger",
+      "name": "Etherwarp Merger",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 28,
+      "chancePercent": 0.42346,
+      "skyblockId": "ETHERWARP_MERGER",
+      "chanceApproximate": true
+    },
+    {
+      "id": "judgement_core",
+      "name": "Judgement Core",
+      "icon": "minecraft:ender_eye",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 29,
+      "chancePercent": 0.056461,
+      "skyblockId": "JUDGEMENT_CORE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "enchant_rune",
+      "name": "◆ Enchant Rune I",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [
+        "Enchant Rune",
+        "Enchant Rune I"
+      ],
+      "settingsSlot": 30,
+      "chancePercent": 0.064032,
+      "chanceApproximate": true
+    },
+    {
+      "id": "ender_slayer_7_book",
+      "name": "Enchanted Book (Ender Slayer VII)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FFFFAA00",
+      "aliases": [
+        "Ender Slayer 7 Book",
+        "Ender Slayer VII"
+      ],
+      "settingsSlot": 31,
+      "chancePercent": 0.014115,
+      "chanceApproximate": true
+    },
+    {
+      "id": "byzantium_dye",
+      "name": "Byzantium Dye",
+      "icon": "minecraft:purple_dye",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 32,
+      "chancePercent": 0.0002,
+      "skyblockId": "BYZANTIUM_DYE",
+      "chanceApproximate": true
+    }
+  ]
+}

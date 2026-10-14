@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "_comment": "Slayer roll pool. chancePercent is an approximate highest-tier baseline; the server-announced item is always the winner.",
+  "source": "https://github.com/kyotinho/skyblock-rng-optimizer/blob/main/index.html",
+  "items": [
+    {
+      "id": "toxic_arrow_poison",
+      "name": "Toxic Arrow Poison",
+      "icon": "minecraft:arrow",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 10,
+      "chancePercent": 14.97255,
+      "skyblockId": "TOXIC_ARROW_POISON",
+      "chanceApproximate": true
+    },
+    {
+      "id": "bite_rune",
+      "name": "◆ Bite Rune I",
+      "icon": "minecraft:player_head",
+      "color": "#FFAA55FF",
+      "aliases": [
+        "Bite Rune",
+        "Bite Rune I"
+      ],
+      "settingsSlot": 11,
+      "chancePercent": 7.689467,
+      "chanceApproximate": true
+    },
+    {
+      "id": "spider_catalyst",
+      "name": "Spider Catalyst",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 12,
+      "chancePercent": 0.623856,
+      "skyblockId": "SPIDER_CATALYST",
+      "chanceApproximate": true
+    },
+    {
+      "id": "bane_of_arthropods_6_book",
+      "name": "Enchanted Book (Bane of Arthropods VI)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FFFFAA00",
+      "aliases": [
+        "Bane of Arthropods 6 Book",
+        "Bane of Arthropods VI"
+      ],
+      "settingsSlot": 13,
+      "chancePercent": 0.831808,
+      "chanceApproximate": true
+    },
+    {
+      "id": "fly_swatter",
+      "name": "Fly Swatter",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 14,
+      "chancePercent": 0.166362,
+      "skyblockId": "FLY_SWATTER",
+      "chanceApproximate": true
+    },
+    {
+      "id": "tarantula_talisman",
+      "name": "Tarantula Talisman",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 15,
+      "chancePercent": 0.166362,
+      "skyblockId": "TARANTULA_TALISMAN",
+      "chanceApproximate": true
+    },
+    {
+      "id": "digested_mosquito",
+      "name": "Digested Mosquito",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 16,
+      "chancePercent": 0.058227,
+      "skyblockId": "DIGESTED_MOSQUITO",
+      "chanceApproximate": true
+    },
+    {
+      "id": "brick_red_dye",
+      "name": "Brick Red Dye",
+      "icon": "minecraft:purple_dye",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 19,
+      "chancePercent": 0.0002,
+      "skyblockId": "BRICK_RED_DYE",
+      "chanceApproximate": true
+    }
+  ]
+}

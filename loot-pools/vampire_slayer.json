@@ -1,0 +1,108 @@
+{
+  "version": 1,
+  "_comment": "Slayer roll pool. chancePercent is an approximate highest-tier baseline; the server-announced item is always the winner.",
+  "source": "https://github.com/kyotinho/skyblock-rng-optimizer/blob/main/index.html",
+  "items": [
+    {
+      "id": "quantum_book_bundle",
+      "name": "Quantum Book Bundle",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 10,
+      "chancePercent": 0.198669,
+      "skyblockId": "QUANTUM_BOOK_BUNDLE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "soultwist_rune",
+      "name": "◆ Soultwist Rune I",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [
+        "Soultwist Rune",
+        "Soultwist Rune I"
+      ],
+      "settingsSlot": 11,
+      "chancePercent": 0.199601,
+      "chanceApproximate": true
+    },
+    {
+      "id": "bubba_blister",
+      "name": "Bubba Blister",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 12,
+      "chancePercent": 0.149002,
+      "skyblockId": "BUBBA_BLISTER",
+      "chanceApproximate": true
+    },
+    {
+      "id": "fang_tastic_chocolate_chip",
+      "name": "Fang-tastic Chocolate Chip",
+      "icon": "minecraft:cocoa_beans",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 13,
+      "chancePercent": 0.149002,
+      "skyblockId": "FANG_TASTIC_CHOCOLATE_CHIP",
+      "chanceApproximate": true
+    },
+    {
+      "id": "guardian_lucky_block",
+      "name": "Guardian Lucky Block",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 14,
+      "chancePercent": 0.099334,
+      "skyblockId": "GUARDIAN_LUCKY_BLOCK",
+      "chanceApproximate": true
+    },
+    {
+      "id": "mcgrubber_s_burger",
+      "name": "McGrubber's Burger",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 15,
+      "chancePercent": 0.019867,
+      "skyblockId": "MCGRUBBER_S_BURGER",
+      "chanceApproximate": true
+    },
+    {
+      "id": "unfanged_vampire_part",
+      "name": "Unfanged Vampire Part",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 16,
+      "chancePercent": 0.019867,
+      "skyblockId": "UNFANGED_VAMPIRE_PART",
+      "chanceApproximate": true
+    },
+    {
+      "id": "the_one_book_bundle",
+      "name": "The One Book Bundle",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 19,
+      "chancePercent": 0.0298,
+      "skyblockId": "THE_ONE_BOOK_BUNDLE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "sangria_dye",
+      "name": "Sangria Dye",
+      "icon": "minecraft:purple_dye",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 20,
+      "chancePercent": 0.01,
+      "skyblockId": "SANGRIA_DYE",
+      "chanceApproximate": true
+    }
+  ]
+}

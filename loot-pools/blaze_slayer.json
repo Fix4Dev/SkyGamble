@@ -1,0 +1,257 @@
+{
+  "version": 1,
+  "_comment": "Slayer roll pool. chancePercent is an approximate highest-tier baseline; the server-announced item is always the winner.",
+  "source": "https://github.com/kyotinho/skyblock-rng-optimizer/blob/main/index.html",
+  "items": [
+    {
+      "id": "enchanted_blaze_powder",
+      "name": "Enchanted Blaze Powder",
+      "icon": "minecraft:blaze_powder",
+      "color": "#FFAA55FF",
+      "aliases": [],
+      "settingsSlot": 10,
+      "chancePercent": 20.392749,
+      "skyblockId": "ENCHANTED_BLAZE_POWDER",
+      "chanceApproximate": true
+    },
+    {
+      "id": "lavatears_rune",
+      "name": "◆ Lavatears Rune I",
+      "icon": "minecraft:player_head",
+      "color": "#FFAA55FF",
+      "aliases": [
+        "Lavatears Rune",
+        "Lavatears Rune I"
+      ],
+      "settingsSlot": 11,
+      "chancePercent": 3.398792,
+      "chanceApproximate": true
+    },
+    {
+      "id": "wisp_s_ice_flavored_water_i_splash_potion",
+      "name": "Wisp's Ice-Flavored Water I Splash Potion",
+      "icon": "minecraft:player_head",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 12,
+      "chancePercent": 2.429071,
+      "skyblockId": "WISP_S_ICE_FLAVORED_WATER_I_SPLASH_POTION",
+      "chanceApproximate": true
+    },
+    {
+      "id": "bundle_of_magma_arrows",
+      "name": "Bundle Of Magma Arrows",
+      "icon": "minecraft:magma_cream",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 13,
+      "chancePercent": 7.287213,
+      "skyblockId": "BUNDLE_OF_MAGMA_ARROWS",
+      "chanceApproximate": true
+    },
+    {
+      "id": "mana_disintegrator",
+      "name": "Mana Disintegrator",
+      "icon": "minecraft:player_head",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 14,
+      "chancePercent": 3.4007,
+      "skyblockId": "MANA_DISINTEGRATOR",
+      "chanceApproximate": true
+    },
+    {
+      "id": "scorched_books",
+      "name": "Scorched Books",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 15,
+      "chancePercent": 1.943257,
+      "skyblockId": "SCORCHED_BOOKS",
+      "chanceApproximate": true
+    },
+    {
+      "id": "kelvin_inverter",
+      "name": "Kelvin Inverter",
+      "icon": "minecraft:player_head",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 16,
+      "chancePercent": 2.429071,
+      "skyblockId": "KELVIN_INVERTER",
+      "chanceApproximate": true
+    },
+    {
+      "id": "blaze_rod_distillate",
+      "name": "Blaze Rod Distillate",
+      "icon": "minecraft:potion",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 19,
+      "chancePercent": 3.4007,
+      "skyblockId": "BLAZE_ROD_DISTILLATE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "glowstone_distillate",
+      "name": "Glowstone Distillate",
+      "icon": "minecraft:potion",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 20,
+      "chancePercent": 3.4007,
+      "skyblockId": "GLOWSTONE_DISTILLATE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "magma_cream_distillate",
+      "name": "Magma Cream Distillate",
+      "icon": "minecraft:magma_cream",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 21,
+      "chancePercent": 3.4007,
+      "skyblockId": "MAGMA_CREAM_DISTILLATE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "nether_wart_distillate",
+      "name": "Nether Wart Distillate",
+      "icon": "minecraft:potion",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 22,
+      "chancePercent": 3.4007,
+      "skyblockId": "NETHER_WART_DISTILLATE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "gabagool_distillate",
+      "name": "Gabagool Distillate",
+      "icon": "minecraft:potion",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 23,
+      "chancePercent": 6.801399,
+      "skyblockId": "GABAGOOL_DISTILLATE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "scorched_power_crystal",
+      "name": "Scorched Power Crystal",
+      "icon": "minecraft:player_head",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 24,
+      "chancePercent": 6.801399,
+      "skyblockId": "SCORCHED_POWER_CRYSTAL",
+      "chanceApproximate": true
+    },
+    {
+      "id": "archfiend_dice",
+      "name": "Archfiend Dice",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 25,
+      "chancePercent": 0.971628,
+      "skyblockId": "ARCHFIEND_DICE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "fire_aspect_3_book",
+      "name": "Enchanted Book (Fire Aspect III)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF5555FF",
+      "aliases": [
+        "Fire Aspect 3 Book",
+        "Fire Aspect III"
+      ],
+      "settingsSlot": 28,
+      "chancePercent": 1.214536,
+      "chanceApproximate": true
+    },
+    {
+      "id": "fiery_burst_rune",
+      "name": "◆ Fiery Burst Rune I",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [
+        "Fiery Burst Rune",
+        "Fiery Burst Rune I"
+      ],
+      "settingsSlot": 29,
+      "chancePercent": 0.302115,
+      "chanceApproximate": true
+    },
+    {
+      "id": "flawed_opal_gemstone",
+      "name": "Flawed Opal Gemstone",
+      "icon": "minecraft:emerald",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 30,
+      "chancePercent": 2.671978,
+      "skyblockId": "FLAWED_OPAL_GEMSTONE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "duplex_1_book",
+      "name": "Enchanted Book (Duplex I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF5555FF",
+      "aliases": [
+        "Duplex 1 Book",
+        "Duplex I"
+      ],
+      "settingsSlot": 31,
+      "chancePercent": 1.70035,
+      "chanceApproximate": true
+    },
+    {
+      "id": "high_class_archfiend_dice",
+      "name": "High Class Archfiend Dice",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 32,
+      "chancePercent": 0.377644,
+      "skyblockId": "HIGH_CLASS_ARCHFIEND_DICE",
+      "chanceApproximate": true
+    },
+    {
+      "id": "wilson_s_engineering_plans",
+      "name": "Wilson's Engineering Plans",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 33,
+      "chancePercent": 0.082588,
+      "skyblockId": "WILSON_S_ENGINEERING_PLANS",
+      "chanceApproximate": true
+    },
+    {
+      "id": "subzero_inverter",
+      "name": "Subzero Inverter",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 34,
+      "chancePercent": 0.082588,
+      "skyblockId": "SUBZERO_INVERTER",
+      "chanceApproximate": true
+    },
+    {
+      "id": "flame_dye",
+      "name": "Flame Dye",
+      "icon": "minecraft:purple_dye",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 37,
+      "chancePercent": 0.0002,
+      "skyblockId": "FLAME_DYE",
+      "chanceApproximate": true
+    }
+  ]
+}

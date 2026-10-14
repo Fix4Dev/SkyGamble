@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "_comment": "Slayer roll pool. chancePercent is an approximate highest-tier baseline; the server-announced item is always the winner.",
+  "source": "https://github.com/kyotinho/skyblock-rng-optimizer/blob/main/index.html",
+  "items": [
+    {
+      "id": "hamster_wheel",
+      "name": "Hamster Wheel",
+      "icon": "minecraft:player_head",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 10,
+      "chancePercent": 16.224548,
+      "skyblockId": "HAMSTER_WHEEL",
+      "chanceApproximate": true
+    },
+    {
+      "id": "spirit_rune",
+      "name": "◆ Spirit Rune I",
+      "icon": "minecraft:player_head",
+      "color": "#FFAA55FF",
+      "aliases": [
+        "Spirit Rune",
+        "Spirit Rune I"
+      ],
+      "settingsSlot": 11,
+      "chancePercent": 7.668232,
+      "chanceApproximate": true
+    },
+    {
+      "id": "critical_6_book",
+      "name": "Enchanted Book (Critical VI)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FFFFAA00",
+      "aliases": [
+        "Critical 6 Book",
+        "Critical VI"
+      ],
+      "settingsSlot": 12,
+      "chancePercent": 0.811227,
+      "chanceApproximate": true
+    },
+    {
+      "id": "furball",
+      "name": "Furball",
+      "icon": "minecraft:player_head",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 13,
+      "chancePercent": 1.622455,
+      "skyblockId": "FURBALL",
+      "chanceApproximate": true
+    },
+    {
+      "id": "red_claw_egg",
+      "name": "Red Claw Egg",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 14,
+      "chancePercent": 0.121684,
+      "skyblockId": "RED_CLAW_EGG",
+      "chanceApproximate": true
+    },
+    {
+      "id": "couture_rune",
+      "name": "◆ Couture Rune I",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [
+        "Couture Rune",
+        "Couture Rune I"
+      ],
+      "settingsSlot": 15,
+      "chancePercent": 0.276167,
+      "chanceApproximate": true
+    },
+    {
+      "id": "overflux_capacitor",
+      "name": "Overflux Capacitor",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 16,
+      "chancePercent": 0.040561,
+      "skyblockId": "OVERFLUX_CAPACITOR",
+      "chanceApproximate": true
+    },
+    {
+      "id": "grizzly_salmon",
+      "name": "Grizzly Salmon",
+      "icon": "minecraft:salmon",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 19,
+      "chancePercent": 0.056786,
+      "skyblockId": "GRIZZLY_SALMON",
+      "chanceApproximate": true
+    },
+    {
+      "id": "celeste_dye",
+      "name": "Celeste Dye",
+      "icon": "minecraft:purple_dye",
+      "color": "#FFFFAA00",
+      "aliases": [],
+      "settingsSlot": 20,
+      "chancePercent": 0.0002,
+      "skyblockId": "CELESTE_DYE",
+      "chanceApproximate": true
+    }
+  ]
+}
