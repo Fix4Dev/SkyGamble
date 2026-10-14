@@ -1,18 +1,196 @@
 {
-  "version": 1,
-  "_comment": "Slayer roll pool. chancePercent is an approximate highest-tier baseline; the server-announced item is always the winner.",
+  "version": 2,
+  "_comment": "Aus dem gespeicherten Hypixel RNG-Meter-Inventar übernommen. Chancen und Slots entsprechen der Aufnahme; spätere Serveränderungen können abweichen.",
   "source": "https://github.com/kyotinho/skyblock-rng-optimizer/blob/main/index.html",
   "items": [
     {
-      "id": "hamster_wheel",
-      "name": "Hamster Wheel",
+      "id": "celeste_dye",
+      "name": "Celeste Dye",
       "icon": "minecraft:player_head",
-      "color": "#FF5555FF",
+      "color": "#FFFFAA00",
       "aliases": [],
       "settingsSlot": 10,
-      "chancePercent": 16.224548,
+      "chancePercent": 0.0002,
+      "skyblockId": "DYE_CELESTE",
+      "profile": {
+        "id": [
+          2095044483,
+          1452816997,
+          -1562273896,
+          1358099969
+        ],
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MTE2MDk5NzIyMywKICAicHJvZmlsZUlkIiA6ICJjZjc4YzFkZjE3ZTI0Y2Q5YTIxYmU4NWQ0NDk5ZWE4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXR0c0FybW9yU3RhbmRzIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgwMjg5MTgxMmE1MmVkNmVkNDM3NjcyYjNlNmIyMTQ0OTViOTY1MTgwMGFlZjg3NTQ0YWM1YmQxOTM3NTgyOTciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+            "signature": "JJyO5mkI2+I04BbMVCrQXjAO74sJGLguyCTK2427xpW8bp+VVwRrui30iPPDxSNveqeJIGrf9LBvANQmvjR4YqTH1HxHTPiBlFwNcHg2q69Pk+uAr+sOh0WxL4qpTzeRZNEFPks6FVGRNaq6YxFjotX6blqg/SFd38CgTXizi138oCNnRp8kMk3pcWJQdMuUjS4qDgt+5Wp3byGny7MCbYV7QbBA7ZugNy3Ts3+EzlDSP1Zck9XPjs9OspvoCB/TnVtkIm/RwXdBx2owrmrvEodjc/KUZq5d6l17O4Q8ItHJAhwxXJ5kTZYllxCiKtcgMLTPBhSG2k24JzgW9pGy+1EY6JsE1BfU5qS9i6LgvBijr+AgO0sdwaJdPw1iRGCsDDonRGXNbJaVMJgPEb85yFG2qjDbpkxqjtC/CPoY6JmiTv301QEwmClyzE/aO9fuQaQM7tgQoyTuGDDs37Z7m+8Vtd13RAobgeg4aQErYAHmqHM8AHGyhdS+aqv2ZxGSYNumzc6+gNZJf1ziO/u9RE6PeRgoAGCBMzCuAPqcUlYaHGL9YkTq/3Ybuc0FgG4b+fyvyJvUV7/djkDhf97zN/kB7ckx2IJb5lV0vpORxQyO8dub8r6aHwvEyo3z7M3IR8W8IoHvJQw/eHLSJZYsRocf9tXnT9s6d+PcTDeCZOg="
+          }
+        ]
+      },
+      "settingsLore": [
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Tier I amount: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "1",
+              "color": "green",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        "",
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Minimum: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Tier I",
+              "color": "green",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Odds: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "RNGesus Incarnate ",
+              "color": "red",
+              "italic": false
+            },
+            {
+              "text": "(",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "0.0002%)",
+              "color": "gray",
+              "italic": false
+            }
+          ],
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "hamster_wheel",
+      "name": "Hamster Wheel",
+      "icon": "minecraft:oak_trapdoor",
+      "color": "#FF5555FF",
+      "aliases": [],
+      "settingsSlot": 11,
+      "chancePercent": 16.6667,
       "skyblockId": "HAMSTER_WHEEL",
-      "chanceApproximate": true
+      "settingsLore": [
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Tier II amount: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "1",
+              "color": "green",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Tier III amount: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "2 to 4",
+              "color": "green",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Tier IV amount: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "4 to 5",
+              "color": "green",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        "",
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Minimum: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Tier II",
+              "color": "yellow",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Odds: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Occasional ",
+              "color": "blue",
+              "italic": false
+            },
+            {
+              "text": "(",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "16.6667%)",
+              "color": "gray",
+              "italic": false
+            }
+          ],
+          "italic": false
+        }
+      ]
     },
     {
       "id": "spirit_rune",
@@ -23,9 +201,84 @@
         "Spirit Rune",
         "Spirit Rune I"
       ],
-      "settingsSlot": 11,
-      "chancePercent": 7.668232,
-      "chanceApproximate": true
+      "settingsSlot": 12,
+      "chancePercent": 6.3154,
+      "profile": {
+        "id": [
+          -2030627673,
+          -689619962,
+          -1188138910,
+          -10679586
+        ],
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTUwNDE1NTc5MSwKICAicHJvZmlsZUlkIiA6ICI4YjA2ZmU5ZGNjNjg0NDNmYWNmM2QzODA0NWNkNTMyNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXN0aWVsY3ZyIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M3MzhiOGFmOGQ3Y2UxYTI2ZGM2ZDQwMTgwYjM1ODk0MDNlMTFlZjM2YTY2ZDdjNDU5MDAzNzczMjgyOTU0MmUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==",
+            "signature": "AuK/UfNLGxkf2nuqFSslEvi0anK8PZ0vnquvcDzvFuhSVEIaQGDXLxZOenk4x+AMJOrH9lh8+aCKl8AjifipE58BJpqQ//aw+GFkxjjzcxUruzZzKi2JILaQImiIaeVrxfTuywZGaP7wR9GmyxYIVShRMFBSELzDUCKjKP7tQTsLB82jCMyZFNGF4p2QZcSiMxJtXM5Nt1useqi+52zfVd4CderHG1mfBOMpqm60WNmHKkS2+x4o8e+BMTS3Cp0f3Mjk4prDxkwDa+4XAQ6BhLhDeNsS3GtdCXqJx0ZIQaz6zRTDMi7uTv3cg9AkjcWs4HOWBvG4DixuQr5zjGn+2b2hd8OnE3zpAtKpjTUyqMRsO3YY9Q2DQ1FVCV+/uLVVtSbTKJVgLD3d8dRJXFx8ej0VRYgYiUcqO55whNfa4T793qD5/OBzxSBHNT8lSqTx/51HzvRm4w5RSfxqrgg9Isf7tbxXFNdgHw5mM9B7ROsnNk+k1t6KSKKze/DPlUWE7Z8WM5yIYt0Om+kFS2J1O9YGrx830tCvyuk4Timo+lozyMVMvZUUnYrnxnxETxGvYMOJUUabjni52Thc6OacBb/w4PInWz2lMnOzZKhwHml9GKZ3WrFv4I31RdIg2gKtR306vUhr1KHaQo83yhtezeH4OrRViY7a7/oMmroeaF8="
+          }
+        ]
+      },
+      "settingsLore": [
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Tier II amount: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "1",
+              "color": "green",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        "",
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Minimum: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Tier II",
+              "color": "yellow",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Odds: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Rare ",
+              "color": "aqua",
+              "italic": false
+            },
+            {
+              "text": "(",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "6.3154%)",
+              "color": "gray",
+              "italic": false
+            }
+          ],
+          "italic": false
+        }
+      ]
     },
     {
       "id": "critical_6_book",
@@ -36,31 +289,298 @@
         "Critical 6 Book",
         "Critical VI"
       ],
-      "settingsSlot": 12,
-      "chancePercent": 0.811227,
-      "chanceApproximate": true
+      "settingsSlot": 13,
+      "chancePercent": 0.8112,
+      "settingsLore": [
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Tier III amount: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "1",
+              "color": "green",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        "",
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Minimum: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Tier III",
+              "color": "red",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Odds: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Extraordinary ",
+              "color": "dark_purple",
+              "italic": false
+            },
+            {
+              "text": "(",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "0.8112%)",
+              "color": "gray",
+              "italic": false
+            }
+          ],
+          "italic": false
+        }
+      ]
     },
     {
       "id": "furball",
       "name": "Furball",
-      "icon": "minecraft:player_head",
+      "icon": "minecraft:paper",
       "color": "#FF5555FF",
       "aliases": [],
-      "settingsSlot": 13,
-      "chancePercent": 1.622455,
+      "settingsSlot": 14,
+      "chancePercent": 1.632,
       "skyblockId": "FURBALL",
-      "chanceApproximate": true
+      "itemModel": "hypixel_skyblock:item/power_stones/furball",
+      "settingsLore": [
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Tier III amount: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "1",
+              "color": "green",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        "",
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Minimum: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Tier III",
+              "color": "red",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Odds: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Extraordinary ",
+              "color": "dark_purple",
+              "italic": false
+            },
+            {
+              "text": "(",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "1.632%)",
+              "color": "gray",
+              "italic": false
+            }
+          ],
+          "italic": false
+        }
+      ]
     },
     {
       "id": "red_claw_egg",
       "name": "Red Claw Egg",
-      "icon": "minecraft:player_head",
+      "icon": "minecraft:paper",
       "color": "#FFFFAA00",
       "aliases": [],
-      "settingsSlot": 14,
-      "chancePercent": 0.121684,
+      "settingsSlot": 15,
+      "chancePercent": 0.1217,
       "skyblockId": "RED_CLAW_EGG",
-      "chanceApproximate": true
+      "itemModel": "minecraft:mooshroom_spawn_egg",
+      "settingsLore": [
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Tier III amount: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "1",
+              "color": "green",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        "",
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Minimum: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Tier III",
+              "color": "red",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Odds: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Pray RNGesus ",
+              "color": "light_purple",
+              "italic": false
+            },
+            {
+              "text": "(",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "0.1217%)",
+              "color": "gray",
+              "italic": false
+            }
+          ],
+          "italic": false
+        }
+      ]
+    },
+    {
+      "id": "paragon_shard",
+      "name": "Paragon Shard",
+      "icon": "minecraft:player_head",
+      "color": "#FFAA00FF",
+      "aliases": [],
+      "settingsSlot": 16,
+      "profile": {
+        "id": [
+          1673637918,
+          -508348842,
+          -1506895037,
+          1128518994
+        ],
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTc4MjgzMjk3MzE1NCwKICAicHJvZmlsZUlkIiA6ICJmNjhhMmE2NTNkNjU0NTQ1ODE0ZDg0OWI5NmU0MDllOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdWdhdHR1IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc1YjQ0OTQyMGYzYzE4OTFiZjY2M2MwNjIzZjEyMTBiYmJlMDY2ODY2Y2RjNGM4ZGExY2QxZjljYmZhMWVlZSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+            "signature": "oEVKTrG/M/yJvg1OObXVmYcBGCzyb/Imkw/ylb9CI1KhmJvZiwWkKB/EihxDq1dHmIzJwnGWULBOuBEfI62n8hdAkUP05ra/ntsedkidatBz4uiHdlhvtAZ7JYoM5kqV7irAsl5UWhF9DsTyAIdMyuh/PCH4veRPeP0zWH1pjw+wPw8PMreBd07ipRKHG6wJn3vcD2OE3AtP/c5yfgt2IjdT7h+g021JA6jspQ8DsiDSyQQBDyqb3P5+vV5dZbnBBGtoAhBKCpUiMllCt1ek4jCJxslrs6IGuERt5yqrmjd4/U7eHWSx1z8co3HZcUCxcjpLgwVYXfUlybsKm2WFRxn3XzXF90yWBwwERJumDOuxXI3RBQQjhCyiGr3+y51qq9hXZ7ZnC57UAhPPbBzaFTnntMqoA2KjVJ+llX16gr7wQKwpSnDaxQlDvvWedjwEtFNOHP+/mzIbHzIpAIejoMPYfZwHK6QB/4ncVDJ2T1vWLw/rm6yyizpNW7jhDBgT1kgaJJEgBGK6Qo5sIysAsmxcSlbzELiG0E5TcrxfTJ3gAptcTVDSfLLhbeVGTjjx7cqZs41jXFPlZd+P4F7WweWZP4prAE3xhjZOvQiJccv7YMtiOphmy6ty3KgSPgF5MJkPQmYRuAzOlS9DLngQ0pEdFN6UpNIbhZ9QaL+lGy4="
+          }
+        ]
+      },
+      "settingsLore": [
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Tier IV amount: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "1",
+              "color": "green",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        "",
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Minimum: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Tier IV",
+              "color": "dark_red",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Odds: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Pray RNGesus ",
+              "color": "light_purple",
+              "italic": false
+            },
+            {
+              "text": "(",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "0.25%)",
+              "color": "gray",
+              "italic": false
+            }
+          ],
+          "italic": false
+        }
+      ],
+      "chancePercent": 0.25
     },
     {
       "id": "couture_rune",
@@ -71,20 +591,234 @@
         "Couture Rune",
         "Couture Rune I"
       ],
-      "settingsSlot": 15,
-      "chancePercent": 0.276167,
-      "chanceApproximate": true
+      "settingsSlot": 19,
+      "chancePercent": 0.2274,
+      "profile": {
+        "id": [
+          -642079673,
+          -1888079623,
+          -1191651266,
+          1963877512
+        ],
+        "properties": [
+          {
+            "name": "textures",
+            "value": "ewogICJ0aW1lc3RhbXAiIDogMTcxOTUwMzU0NzI1NywKICAicHJvZmlsZUlkIiA6ICJhNTdmZDE5MGZmM2U0YjBkYTEzMmY2OGUzOTU3ZjViMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ4SGFubmFoNyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83MzRmYjMyMDMyMzNlZmJhZTgyNjI4YmQ0ZmNhNzM0OGNkMDcxZTViN2I1MjQwN2YxZDFkMjc5NGUzMTc5OWZmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+            "signature": "tTNEOlYkdNuRIiUIhKGTwU6E8DQP/k7jzqddKULMa4xhwNlDafYQW90rLoH42zx5Xph1bcSXHb44zKIh+B31vwhzqFxx/ajIpZZkaTnYfnLUvzZ2NYMGu4KtnALS/ZrGh2GFrEkXLPwRP3/O8m2snJiztOQRVrHCA8PSzGy2esXypI+sWmXRNNKgpJc5mwFCVAnT55Vk9gwn9SHmxIUc+JMLylCeyKODyQo+LuAW6KGOq69EFTst47CfttJfqyPzrEn7cQUYQlLUXPEvQ8TJoxtNZXFgpSLTwMJeW+OagFhUMwto7L2rhO3mq8LOm/IyYAeP4N90qt75rKZybralbaeFcQhb5RI03mZuwCPEh88olDZfxNpDy9OHOGeTdQb8+HCClH4y00DJbUW9Xp+Jt8LA6ZA9kNO3MSjhlJlRX2m/F7Hd3O5UM+OpXjLkBnOaG4cryI+V/KVUnO6AM4mWjCUcWMRa7LwVp/u8EHvQ0Zmw9n4k6qFwA9IyME9nV22fHex5mnKmby3kAs4Pkg/ydj3o1YJdLpany91TT2vVnTWGN5pHLPEVQ8HhTTnIth41QYYjVe5FJ4Hq5hrl9bkD3thLMoKBcL0K4/H/Ex9puvlxShRdq2OKYqnruLDurp7GtvZMkokRTVEWNMzriJyW9sBX5odEFSmo3VeQiHgtXZ8="
+          }
+        ]
+      },
+      "settingsLore": [
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Tier IV amount: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "1",
+              "color": "green",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        "",
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Minimum: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Tier IV",
+              "color": "dark_red",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Odds: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Pray RNGesus ",
+              "color": "light_purple",
+              "italic": false
+            },
+            {
+              "text": "(",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "0.2274%)",
+              "color": "gray",
+              "italic": false
+            }
+          ],
+          "italic": false
+        }
+      ]
     },
     {
       "id": "overflux_capacitor",
       "name": "Overflux Capacitor",
-      "icon": "minecraft:player_head",
+      "icon": "minecraft:quartz",
       "color": "#FFFFAA00",
       "aliases": [],
-      "settingsSlot": 16,
-      "chancePercent": 0.040561,
+      "settingsSlot": 20,
+      "chancePercent": 0.0483,
       "skyblockId": "OVERFLUX_CAPACITOR",
-      "chanceApproximate": true
+      "settingsLore": [
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Tier IV amount: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "1",
+              "color": "green",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        "",
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Minimum: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Tier IV",
+              "color": "dark_red",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Odds: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Pray RNGesus ",
+              "color": "light_purple",
+              "italic": false
+            },
+            {
+              "text": "(",
+              "color": "gray",
+              "italic": false
+            },
+            " ",
+            {
+              "text": "0.0483%)",
+              "color": "gray",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        "",
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Progress: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "9.5",
+              "color": "light_purple",
+              "italic": false
+            },
+            {
+              "text": "%",
+              "color": "dark_purple",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        {
+          "text": "",
+          "extra": [
+            " ",
+            {
+              "text": "116,951",
+              "color": "light_purple",
+              "italic": false
+            },
+            {
+              "text": "/",
+              "color": "dark_purple",
+              "italic": false
+            },
+            {
+              "text": "1.2M",
+              "color": "light_purple",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        "",
+        {
+          "text": "Filling the meter increases the drop",
+          "color": "gray",
+          "italic": false
+        },
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "chance of this item. Reaching ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "100%",
+              "color": "green",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        {
+          "text": "will guarantee it to drop!",
+          "color": "gray",
+          "italic": false
+        },
+        "",
+        {
+          "text": "SELECTED",
+          "color": "green",
+          "bold": true,
+          "italic": false
+        }
+      ]
     },
     {
       "id": "grizzly_salmon",
@@ -92,21 +826,70 @@
       "icon": "minecraft:salmon",
       "color": "#FFFFAA00",
       "aliases": [],
-      "settingsSlot": 19,
-      "chancePercent": 0.056786,
-      "skyblockId": "GRIZZLY_SALMON",
-      "chanceApproximate": true
-    },
-    {
-      "id": "celeste_dye",
-      "name": "Celeste Dye",
-      "icon": "minecraft:purple_dye",
-      "color": "#FFFFAA00",
-      "aliases": [],
-      "settingsSlot": 20,
-      "chancePercent": 0.0002,
-      "skyblockId": "CELESTE_DYE",
-      "chanceApproximate": true
+      "settingsSlot": 21,
+      "chancePercent": 0.0568,
+      "skyblockId": "GRIZZLY_BAIT",
+      "settingsLore": [
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Tier IV amount: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "1",
+              "color": "green",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        "",
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Minimum: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Tier IV",
+              "color": "dark_red",
+              "italic": false
+            }
+          ],
+          "italic": false
+        },
+        {
+          "text": "",
+          "extra": [
+            {
+              "text": "Odds: ",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "Pray RNGesus ",
+              "color": "light_purple",
+              "italic": false
+            },
+            {
+              "text": "(",
+              "color": "gray",
+              "italic": false
+            },
+            {
+              "text": "0.0568%)",
+              "color": "gray",
+              "italic": false
+            }
+          ],
+          "italic": false
+        }
+      ]
     }
   ]
 }
