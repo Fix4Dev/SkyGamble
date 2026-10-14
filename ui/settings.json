@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "texts": {
     "dropSelected": "✔ Roll aktiviert",
     "dropUnselected": "✘ Roll deaktiviert"
@@ -364,8 +364,8 @@
             },
             "minecraft:lore": [
               {
-                "text": "Noch nicht verfügbar",
-                "color": "dark_gray",
+                "text": "Klicken zum Öffnen",
+                "color": "yellow",
                 "italic": false
               }
             ]
@@ -400,8 +400,8 @@
             },
             "minecraft:lore": [
               {
-                "text": "Noch nicht verfügbar",
-                "color": "dark_gray",
+                "text": "Klicken zum Öffnen",
+                "color": "yellow",
                 "italic": false
               }
             ]
@@ -449,8 +449,8 @@
             },
             "minecraft:lore": [
               {
-                "text": "Noch nicht verfügbar",
-                "color": "dark_gray",
+                "text": "Klicken zum Öffnen",
+                "color": "yellow",
                 "italic": false
               }
             ]
@@ -493,7 +493,7 @@
           }
         },
         {
-          "id": "minecraft:gray_dye",
+          "id": "minecraft:blaze_rod",
           "count": 1,
           "components": {
             "minecraft:custom_name": {
