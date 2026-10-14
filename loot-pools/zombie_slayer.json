@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "_comment": "Zombie Slayer RNG drops shown on the wheel. Normal Revenant Flesh is excluded.",
   "#source": "https://wiki.scd.wtf/Revenant_Horror",
   "items": [
@@ -447,7 +447,9 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "itemModel": "hypixel_skyblock:item/slayer/zombie/catalysts/undead_catalyst",
+      "skyblockId": "UNDEAD_CATALYST"
     },
     {
       "id": "smite_vi",
@@ -659,7 +661,9 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "itemModel": "hypixel_skyblock:item/slayer/zombie/revenant_viscera",
+      "skyblockId": "REVENANT_VISCERA"
     },
     {
       "id": "festering_maggot",
@@ -902,7 +906,9 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "itemModel": "hypixel_skyblock:item/slayer/zombie/catalysts/revenant_catalyst",
+      "skyblockId": "REVENANT_CATALYST"
     },
     {
       "id": "paragon_shard",
