@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "_comment": "Zombie Slayer RNG drops shown on the wheel. Normal Revenant Flesh is excluded.",
   "#source": "https://wiki.scd.wtf/Revenant_Horror",
   "items": [
@@ -86,7 +86,8 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "chancePercent": 0.0004
     },
     {
       "id": "foul_flesh",
@@ -204,7 +205,8 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "chancePercent": 16.1616
     },
     {
       "id": "revenant_shard",
@@ -289,7 +291,8 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "chancePercent": 1.3608
     },
     {
       "id": "pestilence_rune",
@@ -377,7 +380,8 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "chancePercent": 6.2679
     },
     {
       "id": "undead_catalyst",
@@ -449,7 +453,8 @@
         }
       ],
       "itemModel": "hypixel_skyblock:item/slayer/zombie/catalysts/undead_catalyst",
-      "skyblockId": "UNDEAD_CATALYST"
+      "skyblockId": "UNDEAD_CATALYST",
+      "chancePercent": 2.0202
     },
     {
       "id": "smite_vi",
@@ -521,7 +526,8 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "chancePercent": 0.402
     },
     {
       "id": "scythe_blade",
@@ -591,7 +597,8 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "chancePercent": 0.1021
     },
     {
       "id": "revenant_viscera",
@@ -663,7 +670,8 @@
         }
       ],
       "itemModel": "hypixel_skyblock:item/slayer/zombie/revenant_viscera",
-      "skyblockId": "REVENANT_VISCERA"
+      "skyblockId": "REVENANT_VISCERA",
+      "chancePercent": 13.6082
     },
     {
       "id": "festering_maggot",
@@ -748,7 +756,8 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "chancePercent": 0.1361
     },
     {
       "id": "snake_rune",
@@ -836,7 +845,8 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "chancePercent": 0.1505
     },
     {
       "id": "revenant_catalyst",
@@ -908,7 +918,8 @@
         }
       ],
       "itemModel": "hypixel_skyblock:item/slayer/zombie/catalysts/revenant_catalyst",
-      "skyblockId": "REVENANT_CATALYST"
+      "skyblockId": "REVENANT_CATALYST",
+      "chancePercent": 1.0101
     },
     {
       "id": "paragon_shard",
@@ -993,7 +1004,8 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "chancePercent": 0.25
     },
     {
       "id": "beheaded_horror",
@@ -1078,7 +1090,8 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "chancePercent": 0.1608
     },
     {
       "id": "severed_hand",
@@ -1163,7 +1176,8 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "chancePercent": 0.0476
     },
     {
       "id": "shredded_sinew",
@@ -1248,7 +1262,8 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "chancePercent": 0.0544
     },
     {
       "id": "warden_heart",
@@ -1333,7 +1348,8 @@
           ],
           "italic": false
         }
-      ]
+      ],
+      "chancePercent": 0.0153
     }
   ]
 }
