@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "texts": {
     "dropSelected": "✔ Roll aktiviert",
     "dropUnselected": "✘ Roll deaktiviert"
@@ -576,14 +576,12 @@
           }
         },
         {
-          "id": "minecraft:black_stained_glass_pane",
+          "id": "minecraft:nether_star",
           "count": 1,
           "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
             "minecraft:custom_name": {
-              "text": "",
+              "text": "Animation: Spezial",
+              "color": "light_purple",
               "italic": false
             }
           }
@@ -764,7 +762,8 @@
       "actions": {
         "openZombie": 19,
         "back": 39,
-        "close": 40
+        "close": 40,
+        "toggleSpecialAnimation": 31
       }
     },
     "zombie": {
