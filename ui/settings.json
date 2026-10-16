@@ -1,12 +1,12 @@
 {
-  "version": 8,
+  "version": 9,
   "texts": {
     "dropSelected": "✔ Roll aktiviert",
     "dropUnselected": "✘ Roll deaktiviert"
   },
   "pages": {
     "selector": {
-      "title": "Slayer-Rolls",
+      "title": "SkyFortune-Rolls",
       "rows": 5,
       "slots": [
         {
@@ -84,7 +84,7 @@
               ]
             },
             "minecraft:custom_name": {
-              "text": "Slayer-Rolls",
+              "text": "SkyFortune-Rolls",
               "color": "light_purple",
               "italic": false
             },
@@ -408,16 +408,26 @@
           }
         },
         {
-          "id": "minecraft:black_stained_glass_pane",
+          "id": "minecraft:obsidian",
           "count": 1,
           "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
             "minecraft:custom_name": {
-              "text": "",
+              "text": "Dungeon M5",
+              "color": "light_purple",
               "italic": false
-            }
+            },
+            "minecraft:lore": [
+              {
+                "text": "Obsidian- und Bedrock-Rolls",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "Klicke für die Spezialeffekte",
+                "color": "green",
+                "italic": false
+              }
+            ]
           }
         },
         {
@@ -766,7 +776,8 @@
         "toggleSpecialAnimation": 31,
         "openSpider": 20,
         "openWolf": 21,
-        "openEnderman": 23
+        "openEnderman": 23,
+        "openM5": 22
       }
     },
     "zombie": {
@@ -9889,6 +9900,414 @@
         "wilson_s_engineering_plans": 33,
         "subzero_inverter": 34,
         "flame_dye": 37
+      }
+    },
+    "m5": {
+      "title": "Dungeon M5 - Spezialeffekte",
+      "rows": 6,
+      "slots": [
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:obsidian",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Dungeon M5",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Spezialeffekte für M5-Drops",
+                "color": "gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:arrow",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Zurück",
+              "color": "green",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Zur Slayer-Auswahl",
+                "color": "gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:barrier",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Schließen",
+              "color": "red",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "",
+              "color": "gray",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "",
+              "color": "gray",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        }
+      ],
+      "actions": {
+        "back": 48,
+        "close": 49
+      },
+      "dropSlots": {
+        "enchanted_book_rejuvenate_iii": 10,
+        "enchanted_book_last_stand_ii": 11,
+        "dark_orb": 12,
+        "enchanted_book_ultimate_wise_ii": 13,
+        "fuming_potato_book": 14,
+        "enchanted_book_overload_i": 15,
+        "enchanted_book_legion_i": 16,
+        "enchanted_book_bank_iii": 19,
+        "shadow_assassin_helmet": 20,
+        "enchanted_book_wisdom_ii": 21,
+        "enchanted_book_no_pain_no_gain_ii": 22,
+        "enchanted_book_combo_ii": 23,
+        "shadow_assassin_boots": 24,
+        "enchanted_book_lethality_vi": 25,
+        "recombobulator_3000": 28,
+        "shadow_assassin_leggings": 29,
+        "shadow_assassin_cloak": 30,
+        "master_skull_tier_4": 31,
+        "livid_dagger": 32,
+        "enchanted_book_ultimate_jerry_iii": 33,
+        "shadow_assassin_chestplate": 34,
+        "livid_dye": 37,
+        "last_breath": 38,
+        "shadow_fury": 39,
+        "warped_stone": 40,
+        "third_master_star": 41
       }
     }
   }
