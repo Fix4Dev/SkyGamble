@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "floor": "M4",
+  "_comment": "Captured from the Hypixel RNG Meter. Odds are displayed RNG Meter values, not verified per-chest probabilities.",
+  "incomplete": false,
+  "items": [
+    {
+      "id": "enchanted_book_last_stand_i",
+      "name": "Enchanted Book (Last Stand I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 10.9215,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_rejuvenate_ii",
+      "name": "Enchanted Book (Rejuvenate II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 10.9215,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_ultimate_wise_i",
+      "name": "Enchanted Book (Ultimate Wise I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 8.1911,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_bank_ii",
+      "name": "Enchanted Book (Bank II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 8.1911,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_wisdom_i",
+      "name": "Enchanted Book (Wisdom I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 8.1911,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "hot_potato_book",
+      "name": "Hot Potato Book",
+      "icon": "minecraft:book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 6.8259,
+      "forceSpecial": false,
+      "skyblockId": "HOT_POTATO_BOOK"
+    },
+    {
+      "id": "enchanted_book_combo_i",
+      "name": "Enchanted Book (Combo I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 6.8259,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_no_pain_no_gain_i",
+      "name": "Enchanted Book (No Pain No Gain I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 5.4608,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "recombobulator_3000",
+      "name": "Recombobulator 3000",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 4.0956,
+      "forceSpecial": false,
+      "skyblockId": "RECOMBOBULATOR_3000"
+    },
+    {
+      "id": "master_skull_tier_3",
+      "name": "Master Skull - Tier 3",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 4.0956,
+      "forceSpecial": false,
+      "skyblockId": "MASTER_SKULL_TIER_3"
+    },
+    {
+      "id": "fuming_potato_book",
+      "name": "Fuming Potato Book",
+      "icon": "minecraft:book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 4.0956,
+      "forceSpecial": false,
+      "skyblockId": "FUMING_POTATO_BOOK",
+      "itemModel": "minecraft:written_book"
+    },
+    {
+      "id": "second_master_star",
+      "name": "Second Master Star",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 2.7304,
+      "forceSpecial": false,
+      "skyblockId": "SECOND_MASTER_STAR"
+    },
+    {
+      "id": "spirit_wing",
+      "name": "Spirit Wing",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 2.7304,
+      "forceSpecial": false,
+      "skyblockId": "SPIRIT_WING",
+      "itemModel": "hypixel_skyblock:item/uncategorized/spirit_wing"
+    },
+    {
+      "id": "spirit_bone",
+      "name": "Spirit Bone",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 2.7304,
+      "forceSpecial": false,
+      "skyblockId": "SPIRIT_BONE",
+      "itemModel": "hypixel_skyblock:item/uncategorized/spirit_bone"
+    },
+    {
+      "id": "spirit_stone",
+      "name": "Spirit Stone",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Diamond",
+      "chancePercent": 2.7304,
+      "forceSpecial": false,
+      "skyblockId": "SPIRIT_DECOY",
+      "itemModel": "hypixel_skyblock:item/reforge_stones/spirit_decoy"
+    },
+    {
+      "id": "enchanted_book_rend_ii",
+      "name": "Enchanted Book (Rend II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 2.7304,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "spirit_sword",
+      "name": "Spirit Sword",
+      "icon": "minecraft:iron_sword",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 1.3652,
+      "forceSpecial": false,
+      "skyblockId": "SPIRIT_SWORD",
+      "itemModel": "hypixel_skyblock:item/uncategorized/spirit_sword"
+    },
+    {
+      "id": "spirit_shortbow",
+      "name": "Spirit Shortbow",
+      "icon": "minecraft:bow",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 1.3652,
+      "forceSpecial": false,
+      "skyblockId": "ITEM_SPIRIT_BOW",
+      "itemModel": "hypixel_skyblock:item/island_relevant/dungeons/spirit_shortbow"
+    },
+    {
+      "id": "spirit_boots",
+      "name": "Spirit Boots",
+      "icon": "minecraft:leather_boots",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 1.3652,
+      "forceSpecial": false,
+      "skyblockId": "THORNS_BOOTS"
+    },
+    {
+      "id": "lvl_1_spirit",
+      "name": "[Lvl 1] Spirit",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 1.3652,
+      "forceSpecial": false,
+      "skyblockId": "PET"
+    },
+    {
+      "id": "enchanted_book_ultimate_jerry_ii",
+      "name": "Enchanted Book (Ultimate Jerry II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 1.3652,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "spirit_mask",
+      "name": "Spirit Mask",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 0.3413,
+      "forceSpecial": false,
+      "skyblockId": "SPIRIT_MASK"
+    }
+  ]
+}

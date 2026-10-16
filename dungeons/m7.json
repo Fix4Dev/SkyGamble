@@ -1,0 +1,377 @@
+{
+  "version": 1,
+  "floor": "M7",
+  "_comment": "Captured from the Hypixel RNG Meter. Odds are displayed RNG Meter values, not verified per-chest probabilities.",
+  "incomplete": false,
+  "items": [
+    {
+      "id": "precursor_gear",
+      "name": "Precursor Gear",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 8.6368,
+      "forceSpecial": false,
+      "skyblockId": "PRECURSOR_GEAR",
+      "itemModel": "hypixel_skyblock:item/reforge_stones/precursor_gear"
+    },
+    {
+      "id": "enchanted_book_combo_ii",
+      "name": "Enchanted Book (Combo II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 7.1974,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_rejuvenate_iii",
+      "name": "Enchanted Book (Rejuvenate III)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 7.1974,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_last_stand_ii",
+      "name": "Enchanted Book (Last Stand II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 7.1974,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_infinite_quiver_vii",
+      "name": "Enchanted Book (Infinite Quiver VII)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 7.1974,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_soul_eater_i",
+      "name": "Enchanted Book (Soul Eater I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Diamond",
+      "chancePercent": 5.7579,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "hot_potato_book",
+      "name": "Hot Potato Book",
+      "icon": "minecraft:book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 5.7579,
+      "forceSpecial": false,
+      "skyblockId": "HOT_POTATO_BOOK"
+    },
+    {
+      "id": "enchanted_book_ultimate_wise_ii",
+      "name": "Enchanted Book (Ultimate Wise II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 5.7579,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_ultimate_jerry_iii",
+      "name": "Enchanted Book (Ultimate Jerry III)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 4.3184,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "recombobulator_3000",
+      "name": "Recombobulator 3000",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 3.5987,
+      "forceSpecial": false,
+      "skyblockId": "RECOMBOBULATOR_3000"
+    },
+    {
+      "id": "enchanted_book_bank_iii",
+      "name": "Enchanted Book (Bank III)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 3.5987,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_wisdom_ii",
+      "name": "Enchanted Book (Wisdom II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 3.5987,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "wither_cloak_sword",
+      "name": "Wither Cloak Sword",
+      "icon": "minecraft:stone_sword",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 3.4547,
+      "forceSpecial": false,
+      "skyblockId": "WITHER_CLOAK",
+      "itemModel": "hypixel_skyblock:item/uncategorized/wither_cloak_sword"
+    },
+    {
+      "id": "wither_helmet",
+      "name": "Wither Helmet",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Diamond",
+      "chancePercent": 3.4547,
+      "forceSpecial": false,
+      "skyblockId": "WITHER_HELMET"
+    },
+    {
+      "id": "wither_blood",
+      "name": "Wither Blood",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 3.4547,
+      "forceSpecial": false,
+      "skyblockId": "WITHER_BLOOD",
+      "itemModel": "hypixel_skyblock:item/reforge_stones/wither_blood"
+    },
+    {
+      "id": "wither_boots",
+      "name": "Wither Boots",
+      "icon": "minecraft:leather_boots",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 3.4547,
+      "forceSpecial": false,
+      "skyblockId": "WITHER_BOOTS"
+    },
+    {
+      "id": "fuming_potato_book",
+      "name": "Fuming Potato Book",
+      "icon": "minecraft:book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 2.8789,
+      "forceSpecial": false,
+      "skyblockId": "FUMING_POTATO_BOOK",
+      "itemModel": "minecraft:written_book"
+    },
+    {
+      "id": "wither_catalyst",
+      "name": "Wither Catalyst",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 2.8789,
+      "forceSpecial": false,
+      "skyblockId": "WITHER_CATALYST",
+      "itemModel": "hypixel_skyblock:item/uncategorized/wither_catalyst"
+    },
+    {
+      "id": "enchanted_book_no_pain_no_gain_ii",
+      "name": "Enchanted Book (No Pain No Gain II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 2.8789,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "wither_leggings",
+      "name": "Wither Leggings",
+      "icon": "minecraft:leather_leggings",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 2.3032,
+      "forceSpecial": false,
+      "skyblockId": "WITHER_LEGGINGS"
+    },
+    {
+      "id": "enchanted_book_feather_falling_vii",
+      "name": "Enchanted Book (Feather Falling VII)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 2.3032,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "auto_recombobulator",
+      "name": "Auto Recombobulator",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.5758,
+      "forceSpecial": false,
+      "skyblockId": "AUTO_RECOMBOBULATOR"
+    },
+    {
+      "id": "wither_chestplate",
+      "name": "Wither Chestplate",
+      "icon": "minecraft:leather_chestplate",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 0.5758,
+      "forceSpecial": false,
+      "skyblockId": "WITHER_CHESTPLATE"
+    },
+    {
+      "id": "enchanted_book_one_for_all_i",
+      "name": "Enchanted Book (One For All I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 0.5758,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "fifth_master_star",
+      "name": "Fifth Master Star",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 0.2159,
+      "forceSpecial": false,
+      "skyblockId": "FIFTH_MASTER_STAR"
+    },
+    {
+      "id": "shadow_warp",
+      "name": "Shadow Warp",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.1799,
+      "forceSpecial": false,
+      "skyblockId": "SHADOW_WARP_SCROLL",
+      "itemModel": "minecraft:writable_book"
+    },
+    {
+      "id": "wither_shield",
+      "name": "Wither Shield",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.1799,
+      "forceSpecial": false,
+      "skyblockId": "WITHER_SHIELD_SCROLL",
+      "itemModel": "minecraft:writable_book"
+    },
+    {
+      "id": "implosion",
+      "name": "Implosion",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.1799,
+      "forceSpecial": false,
+      "skyblockId": "IMPLOSION_SCROLL",
+      "itemModel": "minecraft:writable_book"
+    },
+    {
+      "id": "master_skull_tier_5",
+      "name": "Master Skull - Tier 5",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.1727,
+      "forceSpecial": false,
+      "skyblockId": "MASTER_SKULL_TIER_5"
+    },
+    {
+      "id": "enchanted_book_thunderlord_vii",
+      "name": "Enchanted Book (Thunderlord VII)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.1439,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "necron_s_handle",
+      "name": "Necron's Handle",
+      "icon": "minecraft:stick",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.1296,
+      "forceSpecial": false,
+      "skyblockId": "NECRON_HANDLE"
+    },
+    {
+      "id": "dark_claymore",
+      "name": "Dark Claymore",
+      "icon": "minecraft:stone_sword",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.072,
+      "forceSpecial": false,
+      "skyblockId": "DARK_CLAYMORE",
+      "itemModel": "hypixel_skyblock:item/uncategorized/dark_claymore"
+    },
+    {
+      "id": "storm_the_fish",
+      "name": "Storm the Fish",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.036,
+      "forceSpecial": false,
+      "skyblockId": "STORM_THE_FISH"
+    },
+    {
+      "id": "maxor_the_fish",
+      "name": "Maxor the Fish",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.036,
+      "forceSpecial": false,
+      "skyblockId": "MAXOR_THE_FISH"
+    },
+    {
+      "id": "goldor_the_fish",
+      "name": "Goldor the Fish",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.036,
+      "forceSpecial": false,
+      "skyblockId": "GOLDOR_THE_FISH"
+    },
+    {
+      "id": "necron_dye",
+      "name": "Necron Dye",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.08,
+      "forceSpecial": false,
+      "skyblockId": "DYE_NECRON"
+    }
+  ]
+}

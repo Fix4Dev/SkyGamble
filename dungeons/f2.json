@@ -1,0 +1,143 @@
+{
+  "version": 1,
+  "floor": "F2",
+  "_comment": "Captured from the Hypixel RNG Meter. Odds are displayed RNG Meter values, not verified per-chest probabilities.",
+  "incomplete": false,
+  "items": [
+    {
+      "id": "enchanted_book_rejuvenate_i",
+      "name": "Enchanted Book (Rejuvenate I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Wood",
+      "chancePercent": 23.8095,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_ultimate_wise_i",
+      "name": "Enchanted Book (Ultimate Wise I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 15.873,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "hot_potato_book",
+      "name": "Hot Potato Book",
+      "icon": "minecraft:book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 7.9365,
+      "forceSpecial": false,
+      "skyblockId": "HOT_POTATO_BOOK"
+    },
+    {
+      "id": "enchanted_book_combo_i",
+      "name": "Enchanted Book (Combo I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 7.9365,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_no_pain_no_gain_i",
+      "name": "Enchanted Book (No Pain No Gain I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 7.9365,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "necromancer_s_brooch",
+      "name": "Necromancer's Brooch",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Wood",
+      "chancePercent": 7.9365,
+      "forceSpecial": false,
+      "skyblockId": "NECROMANCER_BROOCH",
+      "itemModel": "hypixel_skyblock:item/reforge_stones/necromancer_brooch"
+    },
+    {
+      "id": "scarf_s_studies",
+      "name": "Scarf's Studies",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 6.3492,
+      "forceSpecial": false,
+      "skyblockId": "SCARF_STUDIES"
+    },
+    {
+      "id": "adaptive_belt",
+      "name": "Adaptive Belt",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 4.7619,
+      "forceSpecial": false,
+      "skyblockId": "ADAPTIVE_BELT",
+      "itemModel": "hypixel_skyblock:item/island_relevant/dungeons/adaptive_belt"
+    },
+    {
+      "id": "fuming_potato_book",
+      "name": "Fuming Potato Book",
+      "icon": "minecraft:book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 4.7619,
+      "forceSpecial": false,
+      "skyblockId": "FUMING_POTATO_BOOK",
+      "itemModel": "minecraft:written_book"
+    },
+    {
+      "id": "recombobulator_3000",
+      "name": "Recombobulator 3000",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 3.1746,
+      "forceSpecial": false,
+      "skyblockId": "RECOMBOBULATOR_3000"
+    },
+    {
+      "id": "adaptive_blade",
+      "name": "Adaptive Blade",
+      "icon": "minecraft:stone_sword",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 3.1746,
+      "forceSpecial": false,
+      "skyblockId": "STONE_BLADE",
+      "itemModel": "hypixel_skyblock:item/uncategorized/adaptive_blade"
+    },
+    {
+      "id": "enchanted_book_bank_i",
+      "name": "Enchanted Book (Bank I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Wood",
+      "chancePercent": 3.1746,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "red_scarf",
+      "name": "Red Scarf",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Diamond",
+      "chancePercent": 1.5873,
+      "forceSpecial": false,
+      "skyblockId": "RED_SCARF",
+      "itemModel": "hypixel_skyblock:item/reforge_stones/red_scarf"
+    }
+  ]
+}

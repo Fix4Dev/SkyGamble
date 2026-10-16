@@ -1,0 +1,244 @@
+{
+  "version": 1,
+  "floor": "F6",
+  "_comment": "Captured from the Hypixel RNG Meter. Odds are displayed RNG Meter values, not verified per-chest probabilities.",
+  "incomplete": false,
+  "items": [
+    {
+      "id": "enchanted_book_rejuvenate_iii",
+      "name": "Enchanted Book (Rejuvenate III)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 14.2482,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_last_stand_ii",
+      "name": "Enchanted Book (Last Stand II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 14.2482,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_ultimate_wise_ii",
+      "name": "Enchanted Book (Ultimate Wise II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 12.3735,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_wisdom_ii",
+      "name": "Enchanted Book (Wisdom II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 8.4364,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "fuming_potato_book",
+      "name": "Fuming Potato Book",
+      "icon": "minecraft:book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 7.4991,
+      "forceSpecial": false,
+      "skyblockId": "FUMING_POTATO_BOOK",
+      "itemModel": "minecraft:written_book"
+    },
+    {
+      "id": "enchanted_book_combo_ii",
+      "name": "Enchanted Book (Combo II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 7.4991,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_no_pain_no_gain_ii",
+      "name": "Enchanted Book (No Pain No Gain II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 6.5617,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_bank_iii",
+      "name": "Enchanted Book (Bank III)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 6.5617,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_swarm_i",
+      "name": "Enchanted Book (Swarm I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 5.6243,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "recombobulator_3000",
+      "name": "Recombobulator 3000",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 3.7495,
+      "forceSpecial": false,
+      "skyblockId": "RECOMBOBULATOR_3000"
+    },
+    {
+      "id": "necromancer_lord_boots",
+      "name": "Necromancer Lord Boots",
+      "icon": "minecraft:leather_boots",
+      "color": "#FF55CCFF",
+      "minimumChest": "Diamond",
+      "chancePercent": 2.2497,
+      "forceSpecial": false,
+      "skyblockId": "NECROMANCER_LORD_BOOTS"
+    },
+    {
+      "id": "giant_tooth",
+      "name": "Giant Tooth",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 1.8748,
+      "forceSpecial": false,
+      "skyblockId": "GIANT_TOOTH",
+      "itemModel": "hypixel_skyblock:item/reforge_stones/giant_tooth"
+    },
+    {
+      "id": "necromancer_lord_helmet",
+      "name": "Necromancer Lord Helmet",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 1.4998,
+      "forceSpecial": false,
+      "skyblockId": "NECROMANCER_LORD_HELMET"
+    },
+    {
+      "id": "sadan_s_brooch",
+      "name": "Sadan's Brooch",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 1.4998,
+      "forceSpecial": false,
+      "skyblockId": "SADAN_BROOCH",
+      "itemModel": "hypixel_skyblock:item/reforge_stones/sadan_brooch"
+    },
+    {
+      "id": "enchanted_book_ultimate_jerry_iii",
+      "name": "Enchanted Book (Ultimate Jerry III)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 1.4998,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "necromancer_lord_leggings",
+      "name": "Necromancer Lord Leggings",
+      "icon": "minecraft:leather_leggings",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 1.1249,
+      "forceSpecial": false,
+      "skyblockId": "NECROMANCER_LORD_LEGGINGS"
+    },
+    {
+      "id": "soulweaver_gloves",
+      "name": "Soulweaver Gloves",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 1.1249,
+      "forceSpecial": false,
+      "skyblockId": "SOULWEAVER_GLOVES",
+      "itemModel": "hypixel_skyblock:item/island_relevant/dungeons/soulweaver_gloves"
+    },
+    {
+      "id": "necromancer_sword",
+      "name": "Necromancer Sword",
+      "icon": "minecraft:iron_sword",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 0.7499,
+      "forceSpecial": false,
+      "skyblockId": "NECROMANCER_SWORD",
+      "itemModel": "hypixel_skyblock:item/uncategorized/necromancers_sword"
+    },
+    {
+      "id": "fel_skull",
+      "name": "Fel Skull",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.5624,
+      "forceSpecial": false,
+      "skyblockId": "FEL_SKULL"
+    },
+    {
+      "id": "summoning_ring",
+      "name": "Summoning Ring",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 0.375,
+      "forceSpecial": false,
+      "skyblockId": "SUMMONING_RING"
+    },
+    {
+      "id": "necromancer_lord_chestplate",
+      "name": "Necromancer Lord Chestplate",
+      "icon": "minecraft:leather_chestplate",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.3,
+      "forceSpecial": false,
+      "skyblockId": "NECROMANCER_LORD_CHESTPLATE"
+    },
+    {
+      "id": "giant_s_sword",
+      "name": "Giant's Sword",
+      "icon": "minecraft:iron_sword",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.1875,
+      "forceSpecial": false,
+      "skyblockId": "GIANTS_SWORD",
+      "itemModel": "hypixel_skyblock:item/uncategorized/giants_sword"
+    },
+    {
+      "id": "precursor_eye",
+      "name": "Precursor Eye",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.1125,
+      "forceSpecial": false,
+      "skyblockId": "PRECURSOR_EYE"
+    }
+  ]
+}

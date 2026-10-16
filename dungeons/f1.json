@@ -1,0 +1,163 @@
+{
+  "version": 1,
+  "floor": "F1",
+  "_comment": "Captured from the Hypixel RNG Meter. Odds are displayed RNG Meter values, not verified per-chest probabilities.",
+  "incomplete": false,
+  "items": [
+    {
+      "id": "enchanted_book_rejuvenate_i",
+      "name": "Enchanted Book (Rejuvenate I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Wood",
+      "chancePercent": 23.5849,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_combo_i",
+      "name": "Enchanted Book (Combo I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 14.1509,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_no_pain_no_gain_i",
+      "name": "Enchanted Book (No Pain No Gain I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 14.1509,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "necromancer_s_brooch",
+      "name": "Necromancer's Brooch",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Wood",
+      "chancePercent": 9.434,
+      "forceSpecial": false,
+      "skyblockId": "NECROMANCER_BROOCH",
+      "itemModel": "hypixel_skyblock:item/reforge_stones/necromancer_brooch"
+    },
+    {
+      "id": "enchanted_book_infinite_quiver_vi",
+      "name": "Enchanted Book (Infinite Quiver VI)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Wood",
+      "chancePercent": 7.5472,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "enchanted_book_feather_falling_vi",
+      "name": "Enchanted Book (Feather Falling VI)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Wood",
+      "chancePercent": 7.5472,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "hot_potato_book",
+      "name": "Hot Potato Book",
+      "icon": "minecraft:book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 4.717,
+      "forceSpecial": false,
+      "skyblockId": "HOT_POTATO_BOOK"
+    },
+    {
+      "id": "balloon_snake",
+      "name": "Balloon Snake",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Diamond",
+      "chancePercent": 3.7736,
+      "forceSpecial": false,
+      "skyblockId": "BALLOON_SNAKE",
+      "itemModel": "hypixel_skyblock:item/island_relevant/dungeons/balloon_snake"
+    },
+    {
+      "id": "recombobulator_3000",
+      "name": "Recombobulator 3000",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 2.8302,
+      "forceSpecial": false,
+      "skyblockId": "RECOMBOBULATOR_3000"
+    },
+    {
+      "id": "bonzo_s_mask",
+      "name": "Bonzo's Mask",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Diamond",
+      "chancePercent": 2.8302,
+      "forceSpecial": false,
+      "skyblockId": "BONZO_MASK"
+    },
+    {
+      "id": "red_nose",
+      "name": "Red Nose",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Diamond",
+      "chancePercent": 2.8302,
+      "forceSpecial": false,
+      "skyblockId": "RED_NOSE",
+      "itemModel": "hypixel_skyblock:item/reforge_stones/red_nose"
+    },
+    {
+      "id": "fuming_potato_book",
+      "name": "Fuming Potato Book",
+      "icon": "minecraft:book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 1.8868,
+      "forceSpecial": false,
+      "skyblockId": "FUMING_POTATO_BOOK",
+      "itemModel": "minecraft:written_book"
+    },
+    {
+      "id": "enchanted_book_bank_i",
+      "name": "Enchanted Book (Bank I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Wood",
+      "chancePercent": 1.8868,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    },
+    {
+      "id": "bonzo_s_staff",
+      "name": "Bonzo's Staff",
+      "icon": "minecraft:blaze_rod",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 0.9434,
+      "forceSpecial": false,
+      "skyblockId": "BONZO_STAFF",
+      "itemModel": "hypixel_skyblock:item/island_relevant/dungeons/bonzos_staff"
+    },
+    {
+      "id": "enchanted_book_ultimate_jerry_i",
+      "name": "Enchanted Book (Ultimate Jerry I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Wood",
+      "chancePercent": 0.9434,
+      "forceSpecial": false,
+      "skyblockId": "ENCHANTED_BOOK"
+    }
+  ]
+}
