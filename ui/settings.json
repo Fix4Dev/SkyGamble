@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "texts": {
     "dropSelected": "✔ Roll aktiviert",
     "dropUnselected": "✘ Roll deaktiviert"
@@ -11890,84 +11890,8 @@
               },
               "",
               {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "Progress: ",
-                    "color": "gray"
-                  },
-                  {
-                    "text": "9.5",
-                    "color": "light_purple"
-                  },
-                  {
-                    "text": "%",
-                    "color": "dark_purple"
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "   ",
-                    "color": "light_purple",
-                    "bold": true,
-                    "strikethrough": true
-                  },
-                  {
-                    "text": "                      ",
-                    "color": "white",
-                    "bold": true,
-                    "strikethrough": true
-                  },
-                  " ",
-                  {
-                    "text": "4,645",
-                    "color": "light_purple"
-                  },
-                  {
-                    "text": "/",
-                    "color": "dark_purple"
-                  },
-                  {
-                    "text": "48.9k",
-                    "color": "light_purple"
-                  }
-                ],
-                "italic": false
-              },
-              "",
-              {
-                "text": "Filling the meter increases the drop",
-                "color": "gray",
-                "italic": false
-              },
-              {
-                "text": "",
-                "extra": [
-                  {
-                    "text": "chance of this item. Reaching ",
-                    "color": "gray"
-                  },
-                  {
-                    "text": "100%",
-                    "color": "green"
-                  }
-                ],
-                "italic": false
-              },
-              {
-                "text": "will guarantee it to drop!",
-                "color": "gray",
-                "italic": false
-              },
-              "",
-              {
-                "text": "SELECTED",
-                "color": "green",
-                "bold": true,
+                "text": "Click to select!",
+                "color": "yellow",
                 "italic": false
               }
             ],
