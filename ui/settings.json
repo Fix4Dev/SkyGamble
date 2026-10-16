@@ -1,12 +1,12 @@
 {
-  "version": 9,
+  "version": 10,
   "texts": {
     "dropSelected": "✔ Roll aktiviert",
     "dropUnselected": "✘ Roll deaktiviert"
   },
   "pages": {
     "selector": {
-      "title": "SkyFortune-Rolls",
+      "title": "SkyFortune-Einstellungen",
       "rows": 5,
       "slots": [
         {
@@ -62,58 +62,38 @@
           }
         },
         {
-          "id": "minecraft:player_head",
+          "id": "minecraft:nether_star",
           "count": 1,
           "components": {
-            "minecraft:tooltip_display": {
-              "hidden_components": [
-                "minecraft:painting/variant",
-                "minecraft:fireworks",
-                "minecraft:attribute_modifiers",
-                "minecraft:enchantments",
-                "minecraft:stored_enchantments",
-                "minecraft:trim",
-                "minecraft:charged_projectiles",
-                "minecraft:jukebox_playable",
-                "minecraft:map_id",
-                "minecraft:unbreakable",
-                "minecraft:written_book_content",
-                "minecraft:banner_patterns",
-                "minecraft:potion_contents",
-                "minecraft:dyed_color"
-              ]
-            },
             "minecraft:custom_name": {
-              "text": "SkyFortune-Rolls",
+              "text": "SkyFortune",
               "color": "light_purple",
               "italic": false
             },
             "minecraft:lore": [
               {
-                "text": "Ein Roll erscheint nur bei einem erkannten RNG-Drop.",
+                "text": "Roll-Einstellungen",
                 "color": "gray",
                 "italic": false
               },
               {
-                "text": "Wähle unten die Drops für den Roll aus.",
-                "color": "gray",
+                "text": "Klicke zum Öffnen",
+                "color": "green",
                 "italic": false
               }
-            ],
-            "minecraft:profile": {
-              "id": [
-                1037473529,
-                1339306257,
-                -1800426253,
-                -1914360681
-              ],
-              "properties": [
-                {
-                  "name": "textures",
-                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NjY1MjUwNjMxMCwKICAicHJvZmlsZUlkIiA6ICI0MWQzYWJjMmQ3NDk0MDBjOTA5MGQ1NDM0ZDAzODMxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWdha2xvb24iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzM4YzY4N2RkODg4N2M1MDlkNTU4NjVlYmI2MmFiNjA4N2VmNzQzZTk0MjVjZDVkYzZiNGM3YjkzYjc0N2ZmMiIKICAgIH0KICB9Cn0=",
-                  "signature": "enmXRpBElHQ2aBCDawMdi5hG0pm9oLwOerSYQHhSO/fDZwy0eZRJwJzo3QgnYcESf9EEGyxZ1sVpn3Apw1UAPh8h0j5rf0I6l1xXmlj5cyqTaPZWPETMCvOSgX75L0hUm87X3eROyyU9pQq1HY6JaMC/raNwwg/PQuxt28UmTYQczzCg4cStVfLfO1sAIzYZK5+gBY3fnKkW3N0t1gcJfJJXUKOKnfTTy31C3rtKqU8FKg4VqRH3JbYSdGjV1+uUtTv59s9NnJJIjgTvj+uyzaqgy189xh9c8apUUftwyUhapymG9XyMBVF8SclTicPSA+Bgqx7OpVGcgE0fW8a3H0hLO6ZbDhODmAIfPV+gxXb8rPR12i4JvzuK2AuInsLeIrpUpeujoO0VcZl4a/h3TQLaUgTjVQzkoLYEi+b7VXuaJBdSiHXjjfD2op+iGIzUaNmNHjIcNpBvTds2Uu1bZdygYFciANJEPtUHnXH8I6Vv/hnJ9mQ7py6UOSRlxN9ncOuTtwvSqudZnaTueHZ2Jbclu4worL0wCNIXQyOxIqlC4sMfYm7H56JCrLlpZCH1rFuNa88M051PVXZei4Z4X+eIUhB3xiW/gpwwZW32ax0W8Vlgdy928BUmczRksjxKJ2hHCO14QCJnH9kgdQtVQPxnobYnz+56ijNsByWdBMg="
-                }
-              ]
+            ]
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
             }
           }
         },
@@ -303,127 +283,19 @@
           "id": "minecraft:rotten_flesh",
           "count": 1,
           "components": {
-            "minecraft:tooltip_display": {
-              "hidden_components": [
-                "minecraft:painting/variant",
-                "minecraft:fireworks",
-                "minecraft:attribute_modifiers",
-                "minecraft:enchantments",
-                "minecraft:stored_enchantments",
-                "minecraft:trim",
-                "minecraft:charged_projectiles",
-                "minecraft:jukebox_playable",
-                "minecraft:map_id",
-                "minecraft:unbreakable",
-                "minecraft:written_book_content",
-                "minecraft:banner_patterns",
-                "minecraft:potion_contents",
-                "minecraft:dyed_color"
-              ]
-            },
             "minecraft:custom_name": {
-              "text": "Zombie Slayer",
+              "text": "Slayer",
               "color": "light_purple",
               "italic": false
             },
             "minecraft:lore": [
               {
-                "text": "Klicken zum Öffnen",
-                "color": "yellow",
-                "italic": false
-              }
-            ]
-          }
-        },
-        {
-          "id": "minecraft:cobweb",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hidden_components": [
-                "minecraft:painting/variant",
-                "minecraft:fireworks",
-                "minecraft:attribute_modifiers",
-                "minecraft:enchantments",
-                "minecraft:stored_enchantments",
-                "minecraft:trim",
-                "minecraft:charged_projectiles",
-                "minecraft:jukebox_playable",
-                "minecraft:map_id",
-                "minecraft:unbreakable",
-                "minecraft:written_book_content",
-                "minecraft:banner_patterns",
-                "minecraft:potion_contents",
-                "minecraft:dyed_color"
-              ]
-            },
-            "minecraft:custom_name": {
-              "text": "Spider Slayer",
-              "color": "light_purple",
-              "italic": false
-            },
-            "minecraft:lore": [
-              {
-                "text": "Klicken zum Öffnen",
-                "color": "yellow",
-                "italic": false
-              }
-            ]
-          }
-        },
-        {
-          "id": "minecraft:mutton",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hidden_components": [
-                "minecraft:painting/variant",
-                "minecraft:fireworks",
-                "minecraft:attribute_modifiers",
-                "minecraft:enchantments",
-                "minecraft:stored_enchantments",
-                "minecraft:trim",
-                "minecraft:charged_projectiles",
-                "minecraft:jukebox_playable",
-                "minecraft:map_id",
-                "minecraft:unbreakable",
-                "minecraft:written_book_content",
-                "minecraft:banner_patterns",
-                "minecraft:potion_contents",
-                "minecraft:dyed_color"
-              ]
-            },
-            "minecraft:custom_name": {
-              "text": "Wolf Slayer",
-              "color": "light_purple",
-              "italic": false
-            },
-            "minecraft:lore": [
-              {
-                "text": "Klicken zum Öffnen",
-                "color": "yellow",
-                "italic": false
-              }
-            ]
-          }
-        },
-        {
-          "id": "minecraft:obsidian",
-          "count": 1,
-          "components": {
-            "minecraft:custom_name": {
-              "text": "Dungeon M5",
-              "color": "light_purple",
-              "italic": false
-            },
-            "minecraft:lore": [
-              {
-                "text": "Obsidian- und Bedrock-Rolls",
+                "text": "Drops und Roll-Einstellungen",
                 "color": "gray",
                 "italic": false
               },
               {
-                "text": "Klicke für die Spezialeffekte",
+                "text": "Klicke zum Öffnen",
                 "color": "green",
                 "italic": false
               }
@@ -431,93 +303,78 @@
           }
         },
         {
-          "id": "minecraft:ender_pearl",
+          "id": "minecraft:black_stained_glass_pane",
           "count": 1,
           "components": {
             "minecraft:tooltip_display": {
-              "hidden_components": [
-                "minecraft:painting/variant",
-                "minecraft:fireworks",
-                "minecraft:attribute_modifiers",
-                "minecraft:enchantments",
-                "minecraft:stored_enchantments",
-                "minecraft:trim",
-                "minecraft:charged_projectiles",
-                "minecraft:jukebox_playable",
-                "minecraft:map_id",
-                "minecraft:unbreakable",
-                "minecraft:written_book_content",
-                "minecraft:banner_patterns",
-                "minecraft:potion_contents",
-                "minecraft:dyed_color"
-              ]
+              "hide_tooltip": true
             },
             "minecraft:custom_name": {
-              "text": "Enderman Slayer",
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:chest",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Dungeons",
               "color": "light_purple",
               "italic": false
             },
             "minecraft:lore": [
               {
-                "text": "Klicken zum Öffnen",
-                "color": "yellow",
+                "text": "Dungeon-Truhen und Drops",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "Klicke zum Öffnen",
+                "color": "green",
                 "italic": false
               }
             ]
           }
         },
         {
-          "id": "minecraft:redstone",
+          "id": "minecraft:black_stained_glass_pane",
           "count": 1,
           "components": {
             "minecraft:tooltip_display": {
-              "hidden_components": [
-                "minecraft:painting/variant",
-                "minecraft:fireworks",
-                "minecraft:attribute_modifiers",
-                "minecraft:enchantments",
-                "minecraft:stored_enchantments",
-                "minecraft:trim",
-                "minecraft:charged_projectiles",
-                "minecraft:jukebox_playable",
-                "minecraft:map_id",
-                "minecraft:unbreakable",
-                "minecraft:written_book_content",
-                "minecraft:banner_patterns",
-                "minecraft:potion_contents",
-                "minecraft:dyed_color"
-              ]
+              "hide_tooltip": true
             },
             "minecraft:custom_name": {
-              "text": "Vampire Slayer",
-              "color": "dark_gray",
+              "text": "",
               "italic": false
-            },
-            "minecraft:lore": [
-              {
-                "text": "Noch nicht verfügbar",
-                "color": "red",
-                "italic": false
-              }
-            ]
-          }
-        },
-        {
-          "id": "minecraft:blaze_rod",
-          "count": 1,
-          "components": {
-            "minecraft:custom_name": {
-              "text": "Blaze Slayer",
-              "color": "dark_gray",
-              "italic": false
-            },
-            "minecraft:lore": [
-              {
-                "text": "Noch nicht verfügbar",
-                "color": "red",
-                "italic": false
-              }
-            ]
+            }
           }
         },
         {
@@ -770,14 +627,11 @@
         }
       ],
       "actions": {
-        "openZombie": 19,
-        "back": 39,
-        "close": 40,
+        "openSlayer": 20,
+        "openDungeons": 24,
         "toggleSpecialAnimation": 31,
-        "openSpider": 20,
-        "openWolf": 21,
-        "openEnderman": 23,
-        "openM5": 22
+        "back": 39,
+        "close": 40
       }
     },
     "zombie": {
@@ -9903,7 +9757,7 @@
       }
     },
     "m5": {
-      "title": "Dungeon M5 - Spezialeffekte",
+      "title": "Master Mode - Floor V",
       "rows": 6,
       "slots": [
         {
@@ -10308,6 +10162,1357 @@
         "shadow_fury": 39,
         "warped_stone": 40,
         "third_master_star": 41
+      }
+    },
+    "slayerSelector": {
+      "title": "Slayer-Rolls",
+      "rows": 5,
+      "slots": [
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:rotten_flesh",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Slayer-Rolls",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Wähle einen Slayer",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "Klicke zum Öffnen",
+                "color": "green",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:rotten_flesh",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:painting/variant",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:enchantments",
+                "minecraft:stored_enchantments",
+                "minecraft:trim",
+                "minecraft:charged_projectiles",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Zombie Slayer",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Klicken zum Öffnen",
+                "color": "yellow",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:cobweb",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:painting/variant",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:enchantments",
+                "minecraft:stored_enchantments",
+                "minecraft:trim",
+                "minecraft:charged_projectiles",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Spider Slayer",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Klicken zum Öffnen",
+                "color": "yellow",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:mutton",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:painting/variant",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:enchantments",
+                "minecraft:stored_enchantments",
+                "minecraft:trim",
+                "minecraft:charged_projectiles",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Wolf Slayer",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Klicken zum Öffnen",
+                "color": "yellow",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:ender_pearl",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:painting/variant",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:enchantments",
+                "minecraft:stored_enchantments",
+                "minecraft:trim",
+                "minecraft:charged_projectiles",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Enderman Slayer",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Klicken zum Öffnen",
+                "color": "yellow",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:redstone",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:painting/variant",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:enchantments",
+                "minecraft:stored_enchantments",
+                "minecraft:trim",
+                "minecraft:charged_projectiles",
+                "minecraft:jukebox_playable",
+                "minecraft:map_id",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Vampire Slayer",
+              "color": "dark_gray",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Noch nicht verfügbar",
+                "color": "red",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:blaze_rod",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Blaze Slayer",
+              "color": "dark_gray",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Noch nicht verfügbar",
+                "color": "red",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:arrow",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Zurück",
+              "color": "green",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Menü schließen",
+                "color": "gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:barrier",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Schließen",
+              "color": "red",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        }
+      ],
+      "actions": {
+        "openZombie": 19,
+        "back": 39,
+        "close": 40,
+        "openSpider": 20,
+        "openWolf": 21,
+        "openEnderman": 23
+      }
+    },
+    "dungeonSelector": {
+      "title": "Dungeon-Rolls",
+      "rows": 5,
+      "slots": [
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:chest",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Dungeon-Rolls",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Wähle einen Floor",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "Klicke zum Öffnen",
+                "color": "green",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:obsidian",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Master Mode - Floor V",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Obsidian und Bedrock",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "Klicke zum Öffnen",
+                "color": "green",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:arrow",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Zurück",
+              "color": "green",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Menü schließen",
+                "color": "gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:barrier",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Schließen",
+              "color": "red",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        }
+      ],
+      "actions": {
+        "openM5": 22,
+        "back": 39,
+        "close": 40
       }
     }
   }
