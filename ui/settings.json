@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "texts": {
     "dropSelected": "✔ Roll aktiviert",
     "dropUnselected": "✘ Roll deaktiviert"
@@ -9895,24 +9895,621 @@
             }
           }
         },
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
         {
-          "id": "minecraft:black_stained_glass_pane",
+          "id": "minecraft:enchanted_book",
           "count": 1,
           "components": {
             "minecraft:tooltip_display": {
-              "hide_tooltip": true
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
             },
             "minecraft:custom_name": {
               "text": "",
+              "extra": [
+                {
+                  "text": "Enchanted Book (Rejuvenate III",
+                  "color": "white"
+                },
+                {
+                  "text": ")",
+                  "color": "white"
+                }
+              ],
               "italic": false
-            }
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Bedrock Chest",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "10.7362%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "enchantments": {
+                "rejuvenate": 3
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:common"
+          }
+        },
+        {
+          "id": "minecraft:enchanted_book",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Enchanted Book (",
+                  "color": "white"
+                },
+                {
+                  "text": "Last Stand II",
+                  "color": "light_purple",
+                  "bold": true
+                },
+                {
+                  "text": ")",
+                  "color": "white"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Bedrock Chest",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "10.7362%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "enchantments": {
+                "ultimate_last_stand": 2
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:common"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:item_model": "hypixel_skyblock:item/power_stones/dark_orb",
+            "minecraft:custom_name": {
+              "text": "Dark Orb",
+              "color": "blue",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Gold Chest",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "9.2025%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "DARK_ORB"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        },
+        {
+          "id": "minecraft:enchanted_book",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Enchanted Book (",
+                  "color": "white"
+                },
+                {
+                  "text": "Ultimate Wise II",
+                  "color": "light_purple",
+                  "bold": true
+                },
+                {
+                  "text": ")",
+                  "color": "white"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Bedrock Chest",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "9.2025%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "enchantments": {
+                "ultimate_wise": 2
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:common"
+          }
+        },
+        {
+          "id": "minecraft:book",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:enchantment_glint_override": true,
+            "minecraft:item_model": "minecraft:written_book",
+            "minecraft:custom_name": {
+              "text": "Fuming Potato Book",
+              "color": "dark_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Emerald Chest",
+                    "color": "dark_green"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "6.135%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "FUMING_POTATO_BOOK"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:epic"
+          }
+        },
+        {
+          "id": "minecraft:enchanted_book",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Enchanted Book (Overload I",
+                  "color": "white"
+                },
+                {
+                  "text": ")",
+                  "color": "white"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Gold Chest",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "6.135%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "enchantments": {
+                "overload": 1
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:common"
+          }
+        },
+        {
+          "id": "minecraft:enchanted_book",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Enchanted Book (",
+                  "color": "white"
+                },
+                {
+                  "text": "Legion I",
+                  "color": "light_purple",
+                  "bold": true
+                },
+                {
+                  "text": ")",
+                  "color": "white"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Diamond Chest",
+                    "color": "aqua"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "6.135%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "enchantments": {
+                "ultimate_legion": 1
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:common"
           }
         },
         {
@@ -9928,13 +10525,6 @@
             }
           }
         },
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
         {
           "id": "minecraft:black_stained_glass_pane",
           "count": 1,
@@ -9946,6 +10536,642 @@
               "text": "",
               "italic": false
             }
+          }
+        },
+        {
+          "id": "minecraft:enchanted_book",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Enchanted Book (Lethality VI",
+                  "color": "white"
+                },
+                {
+                  "text": ")",
+                  "color": "white"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Gold Chest",
+                    "color": "gold"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "6.135%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "enchantments": {
+                "lethality": 6
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:rare"
+          }
+        },
+        {
+          "id": "minecraft:leather_boots",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:unbreakable": {},
+            "minecraft:custom_name": {
+              "text": "Shadow Assassin Boots",
+              "color": "dark_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Diamond Chest",
+                    "color": "aqua"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "4.6012%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "SHADOW_ASSASSIN_BOOTS"
+            },
+            "minecraft:dyed_color": 0,
+            "minecraft:tooltip_style": "hypixel_skyblock:epic"
+          }
+        },
+        {
+          "id": "minecraft:enchanted_book",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Enchanted Book (",
+                  "color": "white"
+                },
+                {
+                  "text": "Combo II",
+                  "color": "light_purple",
+                  "bold": true
+                },
+                {
+                  "text": ")",
+                  "color": "white"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Bedrock Chest",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "4.6012%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "enchantments": {
+                "ultimate_combo": 2
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:common"
+          }
+        },
+        {
+          "id": "minecraft:enchanted_book",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Enchanted Book (",
+                  "color": "white"
+                },
+                {
+                  "text": "No Pain No Gain II",
+                  "color": "light_purple",
+                  "bold": true
+                },
+                {
+                  "text": ")",
+                  "color": "white"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Bedrock Chest",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "4.6012%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "enchantments": {
+                "ultimate_no_pain_no_gain": 2
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:common"
+          }
+        },
+        {
+          "id": "minecraft:enchanted_book",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Enchanted Book (",
+                  "color": "white"
+                },
+                {
+                  "text": "Wisdom II",
+                  "color": "light_purple",
+                  "bold": true
+                },
+                {
+                  "text": ")",
+                  "color": "white"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Bedrock Chest",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "3.681%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "enchantments": {
+                "ultimate_wisdom": 2
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:common"
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Shadow Assassin Helmet",
+              "color": "dark_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Emerald Chest",
+                    "color": "dark_green"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "3.0675%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                2020365098,
+                -112381603,
+                -1383742749,
+                108163050
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTYxOTM0NjY3MzMxNCwKICAicHJvZmlsZUlkIiA6ICJiMGQ3MzJmZTAwZjc0MDdlOWU3Zjc0NjMwMWNkOThjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPUHBscyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hMWFhMTRkZTljMTU4ZDM1MTM5NDljODVjYWJiOWUzNzg0OGI5ODRlYzNmYjViNDRhMzIxOWY0ZmI1OGEwMGRhIgogICAgfQogIH0KfQ==",
+                  "signature": "WXrxaILy6u+t6O7+eTbq3Ao7YQFZOppJY8uDKhf9GCBYO0L1ZznTh6R1jzqU202IRmY0ICOQNBMXzEEBVa30VP0MhJO4vxfs1ieyR1MM4P6OuIcJN/E2nkTIMbT4San9rnGBb2UoWJazLu1LiPefOl/pfiCBfXpJ6kP3VJwLOnDXhvPJkrPg6KrPbsDViLB5ZdUUx8lNYJElZFe9yMzxTSD+0GJmoiQNXhzNul8jr047DAvO8+VHj7WnHN1WYnVEVG5WYQ9rfbs0LnOuRXK+SW3rcfh9F0kZRl0R6oUoWiG8UxciLKXguSbxT1+YKgfQOCvpxAw0nRcTt7ESJRPL5J+ZdNmqkwIdrwtc38JSrxMmuT2ExDbGTA5HZ/wGG8/gM80g3KSHg+LCTDebodrOqoFdA8+5x76tU2wxLX/I4+INAjBDLTRW7PTYXLQkE/v8BVaS1idxFmvJHloQOzqUCpjxwWe4CrIq1XnWQyPCduTbsWIDB2TKlEeCYA9DEKB1YzmjpB3mKvdHdTdGLC4DSvO3lRh0nrRERFMRsTUfWxxnLSqtevjBFOMW1QaH4fd8x0qAx5wJ3xyLVCViVUJ6VPgW268fHResp4mduS62ovxPHeOq6cdlZVILswiPgTmF2YOa7bkUljm0w8Oc+sieP5GRF1LxH7+VeI9v2Ssyj7s="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "id": "SHADOW_ASSASSIN_HELMET"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:epic"
+          }
+        },
+        {
+          "id": "minecraft:enchanted_book",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Enchanted Book (",
+                  "color": "white"
+                },
+                {
+                  "text": "Bank III",
+                  "color": "light_purple",
+                  "bold": true
+                },
+                {
+                  "text": ")",
+                  "color": "white"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Bedrock Chest",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Rare ",
+                    "color": "aqua"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "3.0675%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "enchantments": {
+                "ultimate_bank": 3
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:common"
           }
         },
         {
@@ -9961,13 +11187,6 @@
             }
           }
         },
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
         {
           "id": "minecraft:black_stained_glass_pane",
           "count": 1,
@@ -9979,6 +11198,599 @@
               "text": "",
               "italic": false
             }
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Recombobulator 3000",
+              "color": "gold",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Obsidian Chest",
+                    "color": "dark_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Extraordinary ",
+                    "color": "dark_purple"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "1.8405%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                -990428130,
+                -1374798758,
+                -1654692122,
+                151240449
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTcwOTY2NDE2NjkxMSwKICAicHJvZmlsZUlkIiA6ICI5ZWEwMjA0NDZhNGM0ZTQ2ODZiOGU1ZDBiZGU4Y2U1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYW01MTAyMDgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdjY2QzNmRjOGY3MmFkY2IxZjhjOGU2MWVlODJjZDk2ZWFkMTQwY2YyYTE2YTEzNjZiZTliNWE4ZTNjYzNmYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9",
+                  "signature": "Ob7ZY3QbmCh+LktwflA8+CFigisY/udfPyK4tbpxgQFddSyhD1hv11kvAgo+zmoF3UXElWM799EsIq5HxvUqSkxovJpsQnUNDMeIAyi6dm+mDcbWwUrzYlq3Qm41cCM/IR0/eRbcAQkKSHnyx8qxi2Gbs1YM7+R+uAP3ZzGtUjtyrCgHc4m5XnXZC26TVyFGx4g7GDYi4rWN569KBfDs9dpaKFGwT0bjpYapqZPMoPfK0AAlogCSi5zyc/xvUOfp1yIfzG417ayVggiJIzWhsACOtIGCZP7lk8tqAvTNCxULATy4O4Kxm2qeWCayOu3AUCmvDmBs2xV6f/wKKOc3ytwGxoEuIy0S8Ga6zAFj/K7WQvRdD6xtdEeSkGae8xai0SjX88WcEMMlZWBaj8Wmr7yeLBv9x05dctD1yoTL2A5xvUosHEn7JWsF4tZ6L9cZvepDTh9SBrwhHZ/uMIRl9eofM5qpctX0PJEPfbG62qwwcs5ULIAcrShbDGHGap0dA2qRJhTi95kYOBQqVVH+hP7SGFtxws+E2apvizRl5xH0+RMsbmFS5IjXP9YC8r6l9yHX0V1rvBs1ONJ7rUwId0ZTFzGDUPV9hYuv40RL4b+kEyx7zKKEFW/d5RvOl+UhvfhMTjppxDstFbno9LqkSc5gG4ZARfV91hEpRDZmi3w="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "id": "RECOMBOBULATOR_3000"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+          }
+        },
+        {
+          "id": "minecraft:leather_leggings",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:unbreakable": {},
+            "minecraft:custom_name": {
+              "text": "Shadow Assassin Leggings",
+              "color": "dark_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Obsidian Chest",
+                    "color": "dark_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Extraordinary ",
+                    "color": "dark_purple"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "1.5337%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "SHADOW_ASSASSIN_LEGGINGS"
+            },
+            "minecraft:dyed_color": 0,
+            "minecraft:tooltip_style": "hypixel_skyblock:epic"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:item_model": "hypixel_skyblock:item/island_relevant/dungeons/shadow_assassin_cloak",
+            "minecraft:custom_name": {
+              "text": "Shadow Assassin Cloak",
+              "color": "dark_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Obsidian Chest",
+                    "color": "dark_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Extraordinary ",
+                    "color": "dark_purple"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "1.5337%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "SHADOW_ASSASSIN_CLOAK"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:epic"
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Master Skull - Tier 4",
+              "color": "green",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Bedrock Chest",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Extraordinary ",
+                    "color": "dark_purple"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "1.5337%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                1892175112,
+                252918683,
+                -1887147407,
+                -1409932717
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTg2MzU2Mzg5NywKICAicHJvZmlsZUlkIiA6ICI3NTE0NDQ4MTkxZTY0NTQ2OGM5NzM5YTZlMzk1N2JlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGFua3NNb2phbmciLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmExNTNhZmVkYTFmODBjYjM4MmI1Y2MzMTcxNzUxMDJhMWQ5ZmJkMWQ2YzI2YzkyNTQzMzk3OWE2MzU2NTAxNCIKICAgIH0KICB9Cn0=",
+                  "signature": "dG17KSr2Gb5TDllS7VKesanNyX3qfW4B+oPT2TwJxbDg9CrwCE3tYhhfdxXOXpsJmesZB501CepoXcf0rjznjKxawsrM8QrBUy2Ta1mEajEvYNc23rtZTTxbtY46SzUpb2r4aXlkIAnx8Hly8/5x8iUILZw3dGqC6QL1RJBn4Nr6vHqaVbRov+todp9l1O5p5OkcDAZJbVng7NwixhHNriZQF98Y8Ob36PQUUsI/TiFc0S8wt1X2eByRtm7JelcyXkoZ/ePaaaPPYFQkg/IPldqhtDhMMT9+po5i/WM16whK9aTTv1h97dHkV9w1RyH+gHPqFp3apaIOLqSVn9mGOA2ZJ2ON8ITDAeHTr0jydC4bp/ln+iXs4QlbOFpc4FE0FAaD3HaitpmfRmwrf27QGR1JNoaBOI8oiynkkhnCR0mfdGhDM+tJwru8f3ZvtpLYGSqRTV+ZsybGqkyDUzMMFYWg8WXdD8uKvNw3ZPHiNEnhK8ZvEiMaV5yrp5lTUFlpplL1LilthKy/J6qig6I49169hTXrrR6kK8s1a7Z0eRhh9fo1Etgy3ck8qzHAwLLbbq9kwoLT/UQpTDur45pT7SMpLhWPWD+ASHoE+ddezmfEvVWusBnK2v7ORhiHPR2nVLUdofNvivfN1m9KEd24+bK/GixYhmjV29IIg299ev8="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "id": "MASTER_SKULL_TIER_4"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+          }
+        },
+        {
+          "id": "minecraft:iron_sword",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:item_model": "hypixel_skyblock:item/uncategorized/livid_dagger",
+            "minecraft:unbreakable": {},
+            "minecraft:custom_name": {
+              "text": "Livid Dagger",
+              "color": "gold",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Obsidian Chest",
+                    "color": "dark_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Extraordinary ",
+                    "color": "dark_purple"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "1.227%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "LIVID_DAGGER"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+          }
+        },
+        {
+          "id": "minecraft:enchanted_book",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "extra": [
+                {
+                  "text": "Enchanted Book (",
+                  "color": "white"
+                },
+                {
+                  "text": "Ultimate Jerry III",
+                  "color": "light_purple",
+                  "bold": true
+                },
+                {
+                  "text": ")",
+                  "color": "white"
+                }
+              ],
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Bedrock Chest",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Extraordinary ",
+                    "color": "dark_purple"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "1.227%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "enchantments": {
+                "ultimate_jerry": 3
+              },
+              "id": "ENCHANTED_BOOK"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:common"
+          }
+        },
+        {
+          "id": "minecraft:leather_chestplate",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:unbreakable": {},
+            "minecraft:custom_name": {
+              "text": "Shadow Assassin Chestplate",
+              "color": "dark_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Bedrock Chest",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Extraordinary ",
+                    "color": "dark_purple"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "0.6135%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "SHADOW_ASSASSIN_CHESTPLATE"
+            },
+            "minecraft:dyed_color": 0,
+            "minecraft:tooltip_style": "hypixel_skyblock:epic"
           }
         },
         {
@@ -9994,11 +11806,520 @@
             }
           }
         },
-        null,
-        null,
-        null,
-        null,
-        null,
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Third Master Star",
+              "color": "dark_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Obsidian Chest",
+                    "color": "dark_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Extraordinary ",
+                    "color": "dark_purple"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "0.6135%",
+                    "color": "dark_gray",
+                    "strikethrough": true
+                  },
+                  " ",
+                  {
+                    "text": "0.7292%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Progress: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "9.5",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "%",
+                    "color": "dark_purple"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "   ",
+                    "color": "light_purple",
+                    "bold": true,
+                    "strikethrough": true
+                  },
+                  {
+                    "text": "                      ",
+                    "color": "white",
+                    "bold": true,
+                    "strikethrough": true
+                  },
+                  " ",
+                  {
+                    "text": "4,645",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "/",
+                    "color": "dark_purple"
+                  },
+                  {
+                    "text": "48.9k",
+                    "color": "light_purple"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              {
+                "text": "Filling the meter increases the drop",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "chance of this item. Reaching ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "100%",
+                    "color": "green"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "will guarantee it to drop!",
+                "color": "gray",
+                "italic": false
+              },
+              "",
+              {
+                "text": "SELECTED",
+                "color": "green",
+                "bold": true,
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                -1825579609,
+                1104297681,
+                -1722824067,
+                -1448988550
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0NTgwMjU1MzEyOSwKICAicHJvZmlsZUlkIiA6ICIyNzZlMDQ2YjI0MDM0M2VkOTk2NmU0OTRlN2U2Y2IzNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBRFJBTlM3MTAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDcxYjk1NGU4OWFlZDE1NmY5MGZhZmNlNmRjNzc4OGFjNzZiNjQ2NmNlY2NhM2E0ZjRlYzFlNDYzZWI5MTRhMSIKICAgIH0KICB9Cn0=",
+                  "signature": "n/I+FYqI5lkPsnOU4iEJ/9m3nSc3Rj8fzTHrg5OZuzHtt8lqI1yuKRWldG6YRsOrvavSg7tvFcJ4xyOn+kswMeCaXcpIr+BdICEB0cmMmD934Pbsr0G99nYuiV+Jd+VvrFBc2wVT6C7bzU8R7ECPCpb4NyyMXEOkfqCHJ1W0vkzIYtvRHf5fmYkjG6mumPGmcDxwF0tmtsXBG8RtenY829N31Cn1LllGmS+5qbXcnlFUskpwdxHFkvx5RKRWOVSOHQL+eHbo9Qnx4Bf4rUypK4/+irqAchRv0DelHFMZ5Yvvd06ERUrLoGlkDsOXrGpB4bG/g1vexYY/2zoYMivDqqXwqIxGc/iVbDVWLVm74AA6j7Y1XHz3MgK1qXSdgfHz8XhSChv2hNLN/nj//Q+JyXSK918LuygLV+3b/yKbZn4PxnnSvHPmKTzUuV9AfBAiQdofQKMhFQ7gZSsAa9XKV1Tuu/Bvw6Ow6SxsTLKptQXXiG9M094e55q06aIHbg9jKAekzKGWFqQJ2z5f9PZG10yAQLIKYhrEElKZc7goTB4j+s/AgmMsCiA2eF9gBXrdwDNcqbXePSnNiRq37amP8dfJ5OtKcXDTkrgTv4qCt5jcbTXzrT3Khs1ajpTs+yjxutNPz+v4swXKOjXq3ykGJlP7tCJMPWG32FHmBJwJPZk="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "id": "THIRD_MASTER_STAR"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:epic"
+          }
+        },
+        {
+          "id": "minecraft:paper",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:item_model": "hypixel_skyblock:item/reforge_stones/aote_stone",
+            "minecraft:custom_name": {
+              "text": "Warped Stone",
+              "color": "dark_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Emerald Chest",
+                    "color": "dark_green"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Extraordinary ",
+                    "color": "dark_purple"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "0.6135%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "AOTE_STONE"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:epic"
+          }
+        },
+        {
+          "id": "minecraft:diamond_sword",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:item_model": "hypixel_skyblock:item/uncategorized/shadow_fury",
+            "minecraft:unbreakable": {},
+            "minecraft:custom_name": {
+              "text": "Shadow Fury",
+              "color": "gold",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Bedrock Chest",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Pray RNGesus ",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "0.3067%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "SHADOW_FURY"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+          }
+        },
+        {
+          "id": "minecraft:bow",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:item_model": "hypixel_skyblock:item/uncategorized/last_breath",
+            "minecraft:unbreakable": {},
+            "minecraft:custom_name": {
+              "text": "Last Breath",
+              "color": "gold",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Bedrock Chest",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Pray RNGesus ",
+                    "color": "light_purple"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "0.3067%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:custom_data": {
+              "id": "LAST_BREATH"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hidden_components": [
+                "minecraft:jukebox_playable",
+                "minecraft:painting/variant",
+                "minecraft:map_id",
+                "minecraft:fireworks",
+                "minecraft:attribute_modifiers",
+                "minecraft:unbreakable",
+                "minecraft:written_book_content",
+                "minecraft:banner_patterns",
+                "minecraft:trim",
+                "minecraft:potion_contents",
+                "minecraft:dyed_color",
+                "minecraft:charged_projectiles"
+              ]
+            },
+            "minecraft:custom_name": {
+              "text": "Livid Dye",
+              "color": "gray",
+              "italic": false
+            },
+            "minecraft:lore": [
+              "",
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Appears In: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "Bedrock Chest",
+                    "color": "dark_gray"
+                  }
+                ],
+                "italic": false
+              },
+              {
+                "text": "",
+                "extra": [
+                  {
+                    "text": "Odds: ",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "RNGesus Incarnate ",
+                    "color": "red"
+                  },
+                  {
+                    "text": "(",
+                    "color": "gray"
+                  },
+                  {
+                    "text": "0.02%)",
+                    "color": "gray"
+                  }
+                ],
+                "italic": false
+              },
+              "",
+              "",
+              {
+                "text": "Click to select!",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                1117751260,
+                1300839224,
+                -1333450402,
+                241696935
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0MTE2MTE4OTA0OSwKICAicHJvZmlsZUlkIiA6ICIwMzA5NGIxMzM1ZjY0M2RlOGQxM2MzN2MzYTliOTQxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb2FzdGVyRnJlYWtERSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84OGIwMjE0MTg5YjVhZjhlNzM1YzlkMjJlYmNiZjZlMjk3YTY1MGU4N2VlNTNhOTI3MGZkNzI0YzdiMzI4ZmZhIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=",
+                  "signature": "XJi4VMkezCaAwg8EgWVp5F0HFxcbmpiUwtM/xw7wsTZZ/T7FEg56vNsrvLIfDGylwCLEYw2yWEH1LJV3e6VuNjm6htW47hrog3y3mTPkj4sfiaHb/AdipWxhHG23DZZ9BXFyaYUDxiwMpUC0ovGwybS2FREVNZbAhDQs/7PSk/PZGRaeJ/wLbLFPzQiYreDztgobsO4ILpmAw16cG3GdS/1is5tgkEYsmWw/g4COkmAd9WbltSRg5lSVDWE5VA03GqKLWJyE3hbt03hjQxxDeJU3X2DIdTlavPXM65cQ6v4RGxGHvkF2DfvLzP/dgKXdOk9eFc6eo+0ZEfTq2bcEEpXd9WxScpFK2lGKxElrY7D6PJFjMvpMZul5Zb0ywHfZnaanLZkb7ORhUruxXRRNf5I7TIxEAsDdMUdCefSMnM1ZuTt4d2cpqskfilWdrpbxyuLMoKhxpcb605OX4aeDG20+S3ZLsyB6XwqRfm67DDcvh4wja/Khb2oNn8nD4J1zd/8oUy4rKkCJTA6S435nLFC045sPcJtrI7d44fVX1MuhVP913WfDRPW+xF2SI30qhSNZ56evoA7Z9Z1wVBs6+VQ9tenNeDOY1tzKwS+UJOkCJB/kQt8UsolKiEkLOfbkCRpT6PodTnV5E1Oeof7E1HNH869vmNC2JcyQQyZOv0c="
+                }
+              ]
+            },
+            "minecraft:custom_data": {
+              "id": "DYE_LIVID"
+            },
+            "minecraft:tooltip_style": "hypixel_skyblock:legendary"
+          }
+        },
         null,
         null,
         {
@@ -10143,13 +12464,13 @@
         "fuming_potato_book": 14,
         "enchanted_book_overload_i": 15,
         "enchanted_book_legion_i": 16,
-        "enchanted_book_bank_iii": 19,
-        "shadow_assassin_helmet": 20,
-        "enchanted_book_wisdom_ii": 21,
+        "enchanted_book_bank_iii": 25,
+        "shadow_assassin_helmet": 24,
+        "enchanted_book_wisdom_ii": 23,
         "enchanted_book_no_pain_no_gain_ii": 22,
-        "enchanted_book_combo_ii": 23,
-        "shadow_assassin_boots": 24,
-        "enchanted_book_lethality_vi": 25,
+        "enchanted_book_combo_ii": 21,
+        "shadow_assassin_boots": 20,
+        "enchanted_book_lethality_vi": 19,
         "recombobulator_3000": 28,
         "shadow_assassin_leggings": 29,
         "shadow_assassin_cloak": 30,
@@ -10157,11 +12478,11 @@
         "livid_dagger": 32,
         "enchanted_book_ultimate_jerry_iii": 33,
         "shadow_assassin_chestplate": 34,
-        "livid_dye": 37,
-        "last_breath": 38,
+        "livid_dye": 41,
+        "last_breath": 40,
         "shadow_fury": 39,
-        "warped_stone": 40,
-        "third_master_star": 41
+        "warped_stone": 38,
+        "third_master_star": 37
       }
     },
     "slayerSelector": {
