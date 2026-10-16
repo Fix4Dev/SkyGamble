@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "texts": {
     "dropSelected": "✔ Roll aktiviert",
     "dropUnselected": "✘ Roll deaktiviert"
@@ -13908,36 +13908,15 @@
           }
         },
         {
-          "id": "minecraft:player_head",
+          "id": "minecraft:black_stained_glass_pane",
           "count": 1,
           "components": {
             "minecraft:custom_name": {
-              "text": "The Catacombs - Entrance",
-              "color": "light_purple",
+              "text": " ",
+              "color": "white",
               "italic": false
             },
-            "minecraft:lore": [
-              {
-                "text": "Klicken zum Öffnen",
-                "color": "gray",
-                "italic": false
-              }
-            ],
-            "minecraft:profile": {
-              "id": [
-                -111222942,
-                1665348255,
-                -1529875206,
-                632704254
-              ],
-              "properties": [
-                {
-                  "name": "textures",
-                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1OTIzNjI3NywKICAicHJvZmlsZUlkIiA6ICIzOTVkZTJlYjVjNjU0ZmRkOWQ2NDAwY2JhNmNmNjFhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFyZXN0ZXZlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVhMmY2NzUwMGE2NWYzY2U3OWQzNGVjMTUwZGU5M2RmOGY2MGViZTUyZTI0OGY1ZTFjZGI2OWIwNzI2MjU2ZjciCiAgICB9CiAgfQp9",
-                  "signature": "R10WxlH21g2+xhr47UrYO2iwTmwaWmmVdJjRNc8oyOzYKFh55ZhXlWFr5PQz/+DdEuPrOgwAdW12WNXiTmNDpvr3xL+G10mDfqswaVoWPtGUpeT3gwo8Foj0K7ZxO4lJ14YAF9khlQlbHzNgQeRAwKYI+CMjxKJaLYPGQQdmcrSIyiZ86/zPCHq5+olWrtXy7Kq8MWUXuWkcrcWjbKX5z+FmTV8k49M26d4dlniVkLfCs5g5p3oLlAJpCl9teeJzgV8MeB2IYlXQ7RWtaDG+fSOq+v1BU/WzWId8NdeVYStyph36s126+sJDhp+NVskiAE8j7pcNK1F0lAZ5mEqLexq+7WaZxliOZ1K7mJXQTWtqnmMk6HHbTyzIPT+uH4y+6jdBxwMJNE1dVwXSUyA/gCAy1XAev1dBcX8mG7Fk8mBAvHhRYzs2VGpdpYqy1zZxa+FCVf5wVVELibRsVQlxvBL9PvEpJyHg8pfw9zub5zo43XtIyx4VRPrKs3O84yVkmFKMm8Kqhl2pbi+tSjpin61W5RDiehMIaViIBn0fse/WaSHSq35rmVaLYfwBSY5D+vN8N3dRIQut6iosbrnzbKtTMeROODPGtxTLUOX+GPiMKkw0x+WcEPIG+IPWks9sQdvPltSO3KzYHqS52dcpkj3hE/fYa8Bug55Ot4I16AQ="
-                }
-              ]
-            }
+            "minecraft:lore": []
           }
         },
         {
@@ -14595,7 +14574,6 @@
       "actions": {
         "back": 48,
         "close": 49,
-        "openF0": 11,
         "openF1": 12,
         "openF2": 13,
         "openF3": 14,
@@ -15418,495 +15396,6 @@
         "openM5": 21,
         "openM6": 22,
         "openM7": 23
-      }
-    },
-    "f0": {
-      "title": "The Catacombs - Entrance",
-      "rows": 6,
-      "slots": [
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:player_head",
-          "count": 1,
-          "components": {
-            "minecraft:custom_name": {
-              "text": "The Catacombs - Entrance",
-              "color": "light_purple",
-              "italic": false
-            },
-            "minecraft:lore": [
-              {
-                "text": "Demo-Loot-Pool",
-                "color": "yellow",
-                "italic": false
-              }
-            ],
-            "minecraft:profile": {
-              "id": [
-                -111222942,
-                1665348255,
-                -1529875206,
-                632704254
-              ],
-              "properties": [
-                {
-                  "name": "textures",
-                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1OTIzNjI3NywKICAicHJvZmlsZUlkIiA6ICIzOTVkZTJlYjVjNjU0ZmRkOWQ2NDAwY2JhNmNmNjFhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFyZXN0ZXZlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVhMmY2NzUwMGE2NWYzY2U3OWQzNGVjMTUwZGU5M2RmOGY2MGViZTUyZTI0OGY1ZTFjZGI2OWIwNzI2MjU2ZjciCiAgICB9CiAgfQp9",
-                  "signature": "R10WxlH21g2+xhr47UrYO2iwTmwaWmmVdJjRNc8oyOzYKFh55ZhXlWFr5PQz/+DdEuPrOgwAdW12WNXiTmNDpvr3xL+G10mDfqswaVoWPtGUpeT3gwo8Foj0K7ZxO4lJ14YAF9khlQlbHzNgQeRAwKYI+CMjxKJaLYPGQQdmcrSIyiZ86/zPCHq5+olWrtXy7Kq8MWUXuWkcrcWjbKX5z+FmTV8k49M26d4dlniVkLfCs5g5p3oLlAJpCl9teeJzgV8MeB2IYlXQ7RWtaDG+fSOq+v1BU/WzWId8NdeVYStyph36s126+sJDhp+NVskiAE8j7pcNK1F0lAZ5mEqLexq+7WaZxliOZ1K7mJXQTWtqnmMk6HHbTyzIPT+uH4y+6jdBxwMJNE1dVwXSUyA/gCAy1XAev1dBcX8mG7Fk8mBAvHhRYzs2VGpdpYqy1zZxa+FCVf5wVVELibRsVQlxvBL9PvEpJyHg8pfw9zub5zo43XtIyx4VRPrKs3O84yVkmFKMm8Kqhl2pbi+tSjpin61W5RDiehMIaViIBn0fse/WaSHSq35rmVaLYfwBSY5D+vN8N3dRIQut6iosbrnzbKtTMeROODPGtxTLUOX+GPiMKkw0x+WcEPIG+IPWks9sQdvPltSO3KzYHqS52dcpkj3hE/fYa8Bug55Ot4I16AQ="
-                }
-              ]
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        null,
-        {
-          "id": "minecraft:diamond",
-          "count": 1,
-          "components": {
-            "minecraft:custom_name": {
-              "text": "Demo-Drop I",
-              "color": "yellow",
-              "italic": false
-            },
-            "minecraft:lore": [
-              {
-                "text": "Beispiel für diesen Floor",
-                "color": "gray",
-                "italic": false
-              },
-              {
-                "text": "Echter Loot-Pool folgt später",
-                "color": "gray",
-                "italic": false
-              }
-            ]
-          }
-        },
-        null,
-        {
-          "id": "minecraft:enchanted_book",
-          "count": 1,
-          "components": {
-            "minecraft:custom_name": {
-              "text": "Demo-Drop II",
-              "color": "yellow",
-              "italic": false
-            },
-            "minecraft:lore": [
-              {
-                "text": "Beispiel für diesen Floor",
-                "color": "gray",
-                "italic": false
-              },
-              {
-                "text": "Echter Loot-Pool folgt später",
-                "color": "gray",
-                "italic": false
-              }
-            ]
-          }
-        },
-        null,
-        {
-          "id": "minecraft:nether_star",
-          "count": 1,
-          "components": {
-            "minecraft:custom_name": {
-              "text": "Demo-Drop III",
-              "color": "yellow",
-              "italic": false
-            },
-            "minecraft:lore": [
-              {
-                "text": "Beispiel für diesen Floor",
-                "color": "gray",
-                "italic": false
-              },
-              {
-                "text": "Echter Loot-Pool folgt später",
-                "color": "gray",
-                "italic": false
-              }
-            ]
-          }
-        },
-        null,
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        null,
-        null,
-        null,
-        {
-          "id": "minecraft:emerald",
-          "count": 1,
-          "components": {
-            "minecraft:custom_name": {
-              "text": "Demo-Drop IV",
-              "color": "yellow",
-              "italic": false
-            },
-            "minecraft:lore": [
-              {
-                "text": "Beispiel für diesen Floor",
-                "color": "gray",
-                "italic": false
-              },
-              {
-                "text": "Echter Loot-Pool folgt später",
-                "color": "gray",
-                "italic": false
-              }
-            ]
-          }
-        },
-        null,
-        null,
-        null,
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:arrow",
-          "count": 1,
-          "components": {
-            "minecraft:custom_name": {
-              "text": "Zurück",
-              "color": "green",
-              "italic": false
-            },
-            "minecraft:lore": [
-              {
-                "text": "Zur Slayer-Auswahl",
-                "color": "gray",
-                "italic": false
-              }
-            ]
-          }
-        },
-        {
-          "id": "minecraft:barrier",
-          "count": 1,
-          "components": {
-            "minecraft:custom_name": {
-              "text": "Schließen",
-              "color": "red",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:custom_name": {
-              "text": "",
-              "color": "gray",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:custom_name": {
-              "text": "",
-              "color": "gray",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        },
-        {
-          "id": "minecraft:black_stained_glass_pane",
-          "count": 1,
-          "components": {
-            "minecraft:tooltip_display": {
-              "hide_tooltip": true
-            },
-            "minecraft:custom_name": {
-              "text": "",
-              "italic": false
-            }
-          }
-        }
-      ],
-      "actions": {
-        "back": 48,
-        "close": 49
-      },
-      "dropSlots": {
-        "demo_diamond": 20,
-        "demo_book": 22,
-        "demo_star": 24,
-        "demo_emerald": 31
       }
     },
     "f1": {
@@ -47111,6 +46600,495 @@
         "maxor_the_fish": 15,
         "goldor_the_fish": 16,
         "necron_dye": 19
+      }
+    },
+    "f0": {
+      "title": "The Catacombs - Entrance",
+      "rows": 6,
+      "slots": [
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:player_head",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "The Catacombs - Entrance",
+              "color": "light_purple",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Demo-Loot-Pool",
+                "color": "yellow",
+                "italic": false
+              }
+            ],
+            "minecraft:profile": {
+              "id": [
+                -111222942,
+                1665348255,
+                -1529875206,
+                632704254
+              ],
+              "properties": [
+                {
+                  "name": "textures",
+                  "value": "ewogICJ0aW1lc3RhbXAiIDogMTY4NDM1OTIzNjI3NywKICAicHJvZmlsZUlkIiA6ICIzOTVkZTJlYjVjNjU0ZmRkOWQ2NDAwY2JhNmNmNjFhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGFyZXN0ZXZlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVhMmY2NzUwMGE2NWYzY2U3OWQzNGVjMTUwZGU5M2RmOGY2MGViZTUyZTI0OGY1ZTFjZGI2OWIwNzI2MjU2ZjciCiAgICB9CiAgfQp9",
+                  "signature": "R10WxlH21g2+xhr47UrYO2iwTmwaWmmVdJjRNc8oyOzYKFh55ZhXlWFr5PQz/+DdEuPrOgwAdW12WNXiTmNDpvr3xL+G10mDfqswaVoWPtGUpeT3gwo8Foj0K7ZxO4lJ14YAF9khlQlbHzNgQeRAwKYI+CMjxKJaLYPGQQdmcrSIyiZ86/zPCHq5+olWrtXy7Kq8MWUXuWkcrcWjbKX5z+FmTV8k49M26d4dlniVkLfCs5g5p3oLlAJpCl9teeJzgV8MeB2IYlXQ7RWtaDG+fSOq+v1BU/WzWId8NdeVYStyph36s126+sJDhp+NVskiAE8j7pcNK1F0lAZ5mEqLexq+7WaZxliOZ1K7mJXQTWtqnmMk6HHbTyzIPT+uH4y+6jdBxwMJNE1dVwXSUyA/gCAy1XAev1dBcX8mG7Fk8mBAvHhRYzs2VGpdpYqy1zZxa+FCVf5wVVELibRsVQlxvBL9PvEpJyHg8pfw9zub5zo43XtIyx4VRPrKs3O84yVkmFKMm8Kqhl2pbi+tSjpin61W5RDiehMIaViIBn0fse/WaSHSq35rmVaLYfwBSY5D+vN8N3dRIQut6iosbrnzbKtTMeROODPGtxTLUOX+GPiMKkw0x+WcEPIG+IPWks9sQdvPltSO3KzYHqS52dcpkj3hE/fYa8Bug55Ot4I16AQ="
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        null,
+        {
+          "id": "minecraft:diamond",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Demo-Drop I",
+              "color": "yellow",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Beispiel für diesen Floor",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "Echter Loot-Pool folgt später",
+                "color": "gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        null,
+        {
+          "id": "minecraft:enchanted_book",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Demo-Drop II",
+              "color": "yellow",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Beispiel für diesen Floor",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "Echter Loot-Pool folgt später",
+                "color": "gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        null,
+        {
+          "id": "minecraft:nether_star",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Demo-Drop III",
+              "color": "yellow",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Beispiel für diesen Floor",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "Echter Loot-Pool folgt später",
+                "color": "gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        null,
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        null,
+        null,
+        null,
+        {
+          "id": "minecraft:emerald",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Demo-Drop IV",
+              "color": "yellow",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Beispiel für diesen Floor",
+                "color": "gray",
+                "italic": false
+              },
+              {
+                "text": "Echter Loot-Pool folgt später",
+                "color": "gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        null,
+        null,
+        null,
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:arrow",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Zurück",
+              "color": "green",
+              "italic": false
+            },
+            "minecraft:lore": [
+              {
+                "text": "Zur Slayer-Auswahl",
+                "color": "gray",
+                "italic": false
+              }
+            ]
+          }
+        },
+        {
+          "id": "minecraft:barrier",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "Schließen",
+              "color": "red",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "",
+              "color": "gray",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:custom_name": {
+              "text": "",
+              "color": "gray",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        },
+        {
+          "id": "minecraft:black_stained_glass_pane",
+          "count": 1,
+          "components": {
+            "minecraft:tooltip_display": {
+              "hide_tooltip": true
+            },
+            "minecraft:custom_name": {
+              "text": "",
+              "italic": false
+            }
+          }
+        }
+      ],
+      "actions": {
+        "back": 48,
+        "close": 49
+      },
+      "dropSlots": {
+        "demo_diamond": 20,
+        "demo_book": 22,
+        "demo_star": 24,
+        "demo_emerald": 31
       }
     }
   }
