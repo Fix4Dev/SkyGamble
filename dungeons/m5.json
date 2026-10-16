@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "floor": "M5",
+  "_comment": "Captured from Hypixel Catacombs (M5) RNG Meter on 2026-10-16. minimumChest indicates the first chest tier where the item can appear; odds are the displayed meter odds, not verified per-chest probabilities.",
+  "items": [
+    {
+      "id": "enchanted_book_rejuvenate_iii",
+      "name": "Enchanted Book (Rejuvenate III)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 10.7362
+    },
+    {
+      "id": "enchanted_book_last_stand_ii",
+      "name": "Enchanted Book (Last Stand II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 10.7362
+    },
+    {
+      "id": "dark_orb",
+      "name": "Dark Orb",
+      "icon": "minecraft:paper",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 9.2025,
+      "skyblockId": "DARK_ORB",
+      "itemModel": "hypixel_skyblock:item/power_stones/dark_orb"
+    },
+    {
+      "id": "enchanted_book_ultimate_wise_ii",
+      "name": "Enchanted Book (Ultimate Wise II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 9.2025
+    },
+    {
+      "id": "fuming_potato_book",
+      "name": "Fuming Potato Book",
+      "icon": "minecraft:book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 6.135,
+      "skyblockId": "FUMING_POTATO_BOOK",
+      "itemModel": "minecraft:written_book"
+    },
+    {
+      "id": "enchanted_book_overload_i",
+      "name": "Enchanted Book (Overload I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 6.135
+    },
+    {
+      "id": "enchanted_book_legion_i",
+      "name": "Enchanted Book (Legion I)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Diamond",
+      "chancePercent": 6.135
+    },
+    {
+      "id": "enchanted_book_bank_iii",
+      "name": "Enchanted Book (Bank III)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 3.0675
+    },
+    {
+      "id": "shadow_assassin_helmet",
+      "name": "Shadow Assassin Helmet",
+      "icon": "minecraft:player_head",
+      "color": "#FF55CCFF",
+      "minimumChest": "Emerald",
+      "chancePercent": 3.0675,
+      "skyblockId": "SHADOW_ASSASSIN_HELMET"
+    },
+    {
+      "id": "enchanted_book_wisdom_ii",
+      "name": "Enchanted Book (Wisdom II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 3.681
+    },
+    {
+      "id": "enchanted_book_no_pain_no_gain_ii",
+      "name": "Enchanted Book (No Pain No Gain II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 4.6012
+    },
+    {
+      "id": "enchanted_book_combo_ii",
+      "name": "Enchanted Book (Combo II)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 4.6012
+    },
+    {
+      "id": "shadow_assassin_boots",
+      "name": "Shadow Assassin Boots",
+      "icon": "minecraft:leather_boots",
+      "color": "#FF55CCFF",
+      "minimumChest": "Diamond",
+      "chancePercent": 4.6012,
+      "skyblockId": "SHADOW_ASSASSIN_BOOTS"
+    },
+    {
+      "id": "enchanted_book_lethality_vi",
+      "name": "Enchanted Book (Lethality VI)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FF55CCFF",
+      "minimumChest": "Gold",
+      "chancePercent": 6.135
+    },
+    {
+      "id": "recombobulator_3000",
+      "name": "Recombobulator 3000",
+      "icon": "minecraft:player_head",
+      "color": "#FFAA88FF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 1.8405,
+      "skyblockId": "RECOMBOBULATOR_3000"
+    },
+    {
+      "id": "shadow_assassin_leggings",
+      "name": "Shadow Assassin Leggings",
+      "icon": "minecraft:leather_leggings",
+      "color": "#FFAA88FF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 1.5337,
+      "skyblockId": "SHADOW_ASSASSIN_LEGGINGS"
+    },
+    {
+      "id": "shadow_assassin_cloak",
+      "name": "Shadow Assassin Cloak",
+      "icon": "minecraft:paper",
+      "color": "#FFAA88FF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 1.5337,
+      "skyblockId": "SHADOW_ASSASSIN_CLOAK",
+      "itemModel": "hypixel_skyblock:item/island_relevant/dungeons/shadow_assassin_cloak"
+    },
+    {
+      "id": "master_skull_tier_4",
+      "name": "Master Skull - Tier 4",
+      "icon": "minecraft:player_head",
+      "color": "#FFAA88FF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 1.5337,
+      "skyblockId": "MASTER_SKULL_TIER_4"
+    },
+    {
+      "id": "livid_dagger",
+      "name": "Livid Dagger",
+      "icon": "minecraft:iron_sword",
+      "color": "#FFAA88FF",
+      "minimumChest": "Obsidian",
+      "chancePercent": 1.227,
+      "skyblockId": "LIVID_DAGGER",
+      "itemModel": "hypixel_skyblock:item/uncategorized/livid_dagger"
+    },
+    {
+      "id": "enchanted_book_ultimate_jerry_iii",
+      "name": "Enchanted Book (Ultimate Jerry III)",
+      "icon": "minecraft:enchanted_book",
+      "color": "#FFAA88FF",
+      "minimumChest": "Bedrock",
+      "chancePercent": 1.227
+    },
+    {
+      "id": "shadow_assassin_chestplate",
+      "name": "Shadow Assassin Chestplate",
+      "icon": "minecraft:leather_chestplate",
+      "color": "#FFFFD875",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.6135,
+      "skyblockId": "SHADOW_ASSASSIN_CHESTPLATE"
+    },
+    {
+      "id": "livid_dye",
+      "name": "Livid Dye",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFD875",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.02,
+      "skyblockId": "DYE_LIVID"
+    },
+    {
+      "id": "last_breath",
+      "name": "Last Breath",
+      "icon": "minecraft:bow",
+      "color": "#FFFFD875",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.3067,
+      "skyblockId": "LAST_BREATH",
+      "itemModel": "hypixel_skyblock:item/uncategorized/last_breath"
+    },
+    {
+      "id": "shadow_fury",
+      "name": "Shadow Fury",
+      "icon": "minecraft:diamond_sword",
+      "color": "#FFFFD875",
+      "minimumChest": "Bedrock",
+      "chancePercent": 0.3067,
+      "skyblockId": "SHADOW_FURY",
+      "itemModel": "hypixel_skyblock:item/uncategorized/shadow_fury"
+    },
+    {
+      "id": "warped_stone",
+      "name": "Warped Stone",
+      "icon": "minecraft:paper",
+      "color": "#FFFFD875",
+      "minimumChest": "Emerald",
+      "chancePercent": 0.6135,
+      "skyblockId": "AOTE_STONE",
+      "itemModel": "hypixel_skyblock:item/reforge_stones/aote_stone"
+    },
+    {
+      "id": "third_master_star",
+      "name": "Third Master Star",
+      "icon": "minecraft:player_head",
+      "color": "#FFFFD875",
+      "minimumChest": "Obsidian",
+      "chancePercent": 0.6135,
+      "skyblockId": "THIRD_MASTER_STAR"
+    }
+  ]
+}

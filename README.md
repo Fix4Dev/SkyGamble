@@ -2,6 +2,7 @@
 
 - `loot-pools/{zombie,spider,wolf,enderman,vampire,blaze}_slayer.json` controls each Slayer roll pool: item IDs, names, icons, card colors, head skins, `settingsSlot`, `settingsLore`, and optional `chancePercent` for each drop.
 - [`ui/settings.json`](ui/settings.json) controls the Slayer settings inventories: titles, row counts, serialized item stacks, labels, action slots and drop positions.
+- [`dungeons/m5.json`](dungeons/m5.json) controls the Master Mode Floor V roll candidates for Croesus's Obsidian and Bedrock chests. `minimumChest` is the first chest tier shown by Hypixel's RNG Meter; later tiers can contain the same item. The saved odds are the values displayed in the captured M5 RNG Meter, not verified per-chest probabilities. The roll result is selected from the actual contents in the Croesus chest tooltip. If no listed RNG item matches, the roll shows `Kein erfasster RNG-Drop`.
 
 Each file has its own integer `version`. Increase only the version of the file you changed (`1` → `2` → `3` ...). SkyFortune checks for newer versions when entering a world and about every 30 minutes while playing. `/skyfortune update` checks immediately. The client saves a backup before replacing a local JSON.
 
