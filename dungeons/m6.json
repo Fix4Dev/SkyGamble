@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "floor": "M6",
   "_comment": "Captured from the Hypixel RNG Meter. Odds are displayed RNG Meter values, not verified per-chest probabilities.",
   "incomplete": false,
@@ -102,7 +102,7 @@
       "color": "#FF55CCFF",
       "minimumChest": "Obsidian",
       "chancePercent": 4.4313,
-      "forceSpecial": false,
+      "forceSpecial": true,
       "skyblockId": "RECOMBOBULATOR_3000"
     },
     {
@@ -206,7 +206,7 @@
       "color": "#FF55CCFF",
       "minimumChest": "Bedrock",
       "chancePercent": 0.3693,
-      "forceSpecial": false,
+      "forceSpecial": true,
       "skyblockId": "FOURTH_MASTER_STAR"
     },
     {

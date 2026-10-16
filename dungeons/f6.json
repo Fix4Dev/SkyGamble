@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "floor": "F6",
   "_comment": "Captured from the Hypixel RNG Meter. Odds are displayed RNG Meter values, not verified per-chest probabilities.",
   "incomplete": false,
@@ -102,7 +102,7 @@
       "color": "#FF55CCFF",
       "minimumChest": "Obsidian",
       "chancePercent": 3.7495,
-      "forceSpecial": false,
+      "forceSpecial": true,
       "skyblockId": "RECOMBOBULATOR_3000"
     },
     {

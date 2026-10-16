@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "floor": "M5",
   "_comment": "Captured from Hypixel Catacombs (M5) RNG Meter on 2026-10-16. minimumChest indicates the first chest tier where the item can appear; odds are the displayed meter odds, not verified per-chest probabilities.",
   "items": [
@@ -143,7 +143,7 @@
       "minimumChest": "Obsidian",
       "chancePercent": 1.8405,
       "skyblockId": "RECOMBOBULATOR_3000",
-      "forceSpecial": false
+      "forceSpecial": true
     },
     {
       "id": "shadow_assassin_leggings",
@@ -257,7 +257,7 @@
       "minimumChest": "Obsidian",
       "chancePercent": 0.6135,
       "skyblockId": "THIRD_MASTER_STAR",
-      "forceSpecial": false
+      "forceSpecial": true
     }
   ]
 }
